@@ -1,0 +1,249 @@
+1128;21048;4;; Yes; Oui
+1208;21060;4;;  No; Non
+1288;21072;3;;Exp;Exp
+1368;21080;5;;Funds;Fonds
+1448;21092;14;;Squad Barracks;Caserne 7s
+1528;21112;12;;Command Room;Commandement
+1608;21132;14;;Training Field;Entrainement
+1688;21152;12;;R&D Facility;Service R£D
+1768;21172;14;;Castlefront St;Rue du chateau
+1848;21192;12;;War Cemetery;Cimeti>re
+1928;21212;13;;Audience Hall;Hall audience
+2008;21232;9;;Book Mode;Mode Livre
+2088;21248;56;;Change equipment or view info on the members of Squad 7.;Changer <quipement ou voir des info sur les membres de 7s.
+2168;21312;55;;Choose the members of Squad 7 who will fight in combat.;Choisissez les membres de l'Escouade qui vont combattre.
+2248;21372;38;;Train units to improve combat ability.;Entrainer les unit<s pour am<liorer leur capacit< de combat
+2328;21416;55;;Upgrade Squad 7's equipment by developing new weaponry.;Am<liorer l'<quipement de Escouade 7 avec de nouvelles armes
+2408;21476;50;;Read the Writing on the Wall, published regularly.;Lire les Nouvelles sur le mur, publi< r<guli>rement.
+2488;21532;59;;Visit the resting place of those who have fallen in battle.;Visitez le lieu du repos de ceux qui sont tomb<s au combat.
+2568;21596;52;;Visit Castle Randgriz for an audience with Cordelia.;Visitez le chateau Randgriz pour une audience avec Cordelia
+2648;21656;20;;Return to Book Mode.;Retour au Mode livre.
+2728;21684;20;;Return to Book Mode?;Retour au Mode livre?
+2808;21712;16;;Change equipment;Changer <quipements
+2888;21736;8;;CP Cost:;Cout CP:
+2968;21752;7;;Details;D<tails
+3048;21764;28;;Equip only the current unit.;Equipe l'unit< actuelle.
+3128;21800;30;;Equip all units of this class.;Equipe la classe enti>re.
+3208;21836;3;;Add;Ajoute
+3288;21844;3;;Cut;Retire
+3368;21852;11;;Open spots:;Postes ouverts:
+3448;21868;0;;;
+3528;21876;14;;Potential Info;Info Potentiel
+3608;21896;10;;Left/Right;Gauche/Droite
+3688;21912;10;;Form Squad;Gestion
+3768;21928;4;;Info;Info
+3848;21940;8;;Possible;Possible
+3928;21956;8;;Recruits;Recrues
+4008;21972;7;;Squad 7;Escouade7
+4088;21984;22;;Exit the Command Room?;Sortir de la salle de commande?
+4168;22012;15;;Leave the area?;Quitter la zone?
+4248;22032;32;;Purchase this interview content?;Acheter cet interview?
+4328;22072;14;;Ellet Embedded;Ellet incorpor<e
+4408;22092;15;;Largo's Passion;La Passion de Largo
+4488;22112;15;;A Taste of Home;Un avant-gout de la maison
+4568;22132;18;;Signs of Awakening;Les signes d'<veil
+4648;22156;24;;For Whom Destiny Unfolds;Pour qui le destin se d<bloque
+4728;22188;13;;Squad 7's R&R;Escouade 7 Repos et R<cup<ration
+4808;22208;21;;What Lies Beyond Hate;Ce qui se trouve au-del== de la haine
+4888;22236;19;;War Without Weapons;Guerre sans armes
+4968;22260;25;;Flower of the Battlefield;Fleur du champ de bataille
+5048;22292;12;;Parting Ways;La s<paration
+5128;22312;40;;That piece is on the members of Squad 7.;Cette partie est sur les membres du Escouade 7.
+5208;22360;23;;That piece is on Largo.;Cette partie est sur Largo.
+5288;22388;35;;That piece is on Welkin and Alicia.;Cette partie est sur Welkin et Alicia.
+5368;22428;24;;That piece is on Alicia.;Cette partie est sur Alicia.
+5448;22460;35;;That piece is on Princess Cordelia.;Cette partie est sur la princesse Cordelia.
+5528;22500;36;;That piece is on Squad 7's vacation.;Cette partie est sur les vacances de l'Escouade7.
+5608;22544;32;;That piece is on Captain Varrot.;Cette partie est le capitaine Varrot.
+5688;22584;23;;That piece is on Rosie.;Cette partie est sur Rosie.
+5768;22612;24;;That piece is on Welkin.;Cette partie est sur Welkin.
+5848;22644;24;;That piece is on Faldio.;Cette partie est sur Faldio.
+5928;22676;8;;Exp Used;Exp Utilis<e
+6008;22692;9;;Unit Info;Infos Unit<
+6088;22708;6;;Scouts;Eclaireur
+6168;22720;12;;Shocktrooper;Commandos
+6248;22740;7;;Lancers;Lanciers
+6328;22752;9;;Engineers;Ing<nieurs
+6408;22768;7;;Snipers;Snipers
+6488;22780;15;;Tank Commanders;Chef de char
+6568;22800;12;;Scout Elites;Eclaireur Elite
+6648;22820;14;;Trooper Elites;Commando Elite
+6728;22840;13;;Lancer Elites;Lancier Elite
+6808;22860;15;;Engineer Elites;Ing<nieur Elite
+6888;22880;13;;Sniper Elites;Sniper Elite
+6968;22900;13;;Are you sure?;$tes-vous sur?
+7048;22920;15;;Develop Weapons;D<velopper des armes
+7128;22940;12;;Outfit Tanks;Tuning char
+7208;22960;6;;Rifles;Fusils
+7288;22972;12;;Machine Guns;Mitrailleuses
+7368;22992;13;;Sniper Rifles;Fusils de Sniper
+7448;23012;16;;Anti-Tank Lances;Lances antichar
+7528;23036;13;;Flamethrowers;Lance-flammes
+7608;23056;13;;Hand Grenades;Grenades = main
+7688;23076;8;;Uniforms;Uniformes
+7768;23092;11;;Blast Suits;Tenues Lancier
+7848;23108;9;;Edelweiss;Edelweiss
+7928;23124;8;;Shamrock;Shamrock
+8008;23140;17;;Body Enhancements;Am<lioration corps
+8088;23164;18;;Firepower Upgrades;Puissance de feu
+8168;23188;14;;Treads & Other;Chenilles/Autres
+8248;23208;14;;Attack Support;Attaque Soutien
+8328;23228;28;;You have insufficient funds.;Vous n'avez pas assez de fonds.
+8408;23264;4;;Cost;Cout
+8488;23276;3;;DCT;DCT
+8568;23284;21;;Develop this upgrade?;D<velopper cette mise = jour?
+8648;23312;35;;Develop improvements for the rifle.;D<v. des am<lio. pour le fusil.
+8728;23352;41;;Develop improvements for the machine gun.;D<v. des am<lio. pour la mitrailleuse.
+8808;23400;42;;Develop improvements for the sniper rifle.;D<v. des am<lio. pour le fusil de sniper.
+8888;23448;35;;Develop improvements for the lance.;D<v. des am<lio. pour la lance.
+8968;23488;42;;Develop improvements for the flamethrower.;D<v. des am<lio. pour le lance-flammes.
+9048;23536;42;;Develop improvements for the hand grenade.;D<v. des am<lio. pour la grenade = main.
+9128;23584;41;;Develop improvements for combat uniforms.;D<v. des am<lio. pour les tenues de combat
+9208;23632;37;;Develop improvements for blast suits.;D<v. des am<lio. pour les tenues antisouffle.
+9288;23676;31;;Develop tank body enhancements.;D<v. des am<lio. pour le corps du char.
+9368;23712;36;;Develop tank firepower enhancements.;D<v. des am<lio. puissance de feu du char.
+9448;23756;41;;Improve tank treads and critical defense.;Am<lio. chenilles / d<fense anti-critique.
+9528;23804;36;;Develop tank attack support add-ons.;D<v. <quipement d'aide = l'attaque de char.
+9608;23848;5;;Type:;Type:
+9688;23860;17;;Commander: Welkin;Commandeur Welkin
+9768;23884;15;;Commander: Zaka;Commandeur Zaka
+9848;23904;5;;Range;Port<e
+9928;23916;12;;vs Personnel;vs Personnel
+10008;23936;8;;vs Armor;vs Armure
+10088;23952;5;;Blast;Explosion
+10168;23964;9;;Body Def.;D<f. corps.
+10248;23980;10;;Tread Def.;Chenille D<f.
+10328;23996;7;;Body HP;Hp Corps
+10408;24008;8;;Tread HP;HP Chenille
+10488;24024;9;;Equipment;<quipement
+10568;24040;10;;Weak Point;Point faible
+10648;24056;8;;Accuracy;Pr<cision
+10728;24072;8;;Magazine;Chargeur
+10808;24088;27;;Signs of Gallian Resistance;Signes de r<sistance des Galliens
+10888;24120;26;;Flames of War Sweep Europa;Flammes de la Guerre Sillonnent Europa
+10968;24152;27;;Militia Claims Vasel Bridge;La Milice prend le Pont de Vasel
+11048;24184;27;;Gallia to Pull Out of North;Gallia se retire du Nord
+11128;24216;29;;Lucky 7's Cut Off Supply Base;Couper de la base arri>re de Lucky 7
+11208;24252;28;;Militia Issues Draft Notices;Avis d'enrolement dans la milice
+11288;24288;28;;Imperial Shadow Hits Barious;L'Ombre Imp<riale touche Barious
+11368;24324;29;;Gallia-Federation Talks Begin;D<but de pourparlers Gallia-F<d<ration
+11448;24360;27;;Militia Routs Imp Commander;La d<route du commandant Imp.
+11528;24392;29;;New Lode in Gallian Southeast;Nouveau Filon dans Gallia Sud
+11608;24428;29;;South, Central Forces Team Up;Sud, Forces centrales s'associent
+11688;24464;19;;GOS to Be Cancelled;GOS est annul<
+11768;24488;26;;Princess Kidnapping Foiled;Enl>vement Princesse d<jou<
+11848;24520;28;;Militia Lieutenant Decorated;Lieutenant de la Milice D<cor<
+11928;24556;29;;Capital Abuzz with North Wins;Victoire au Nord : Joie = la Capitale
+12008;24592;28;;Valkyria Craze Sweeps Nation;Engouement national sur la Valkyria
+12088;24628;27;;Victory Claimed Amid Losses;Victoire obtenu au milieu des pertes
+12168;24660;22;;War Orphan Count Soars;Augmentation du nombre d'orphelins 
+12248;24688;27;;Border Town Bruhl Reclaimed;Ville de la fronti>re Bruhl reprise
+12328;24720;27;;Historical Artifacts Stolen;Les artefacts historiques vol<s
+12408;24752;28;;Both Armies March on Naggiar;Les deux arm<es marchent sur Naggiar
+12488;24788;30;;National Exams Brought to Halt;Examens nationaux bloqu<s
+12568;24824;26;;Clash at Naggiar Concludes;Conclusion du Clash de Naggiar
+12648;24856;29;;Refugee Issue Crosses Borders;Probl>me des r<fugi<s = la fronti>res
+12728;24892;28;;Citadel at Ghirlandaio Falls;Chute de la Citadelle de Ghirlandaio
+12808;24928;29;;Explosion Cause Still Unknown;Explosion cause toujours inconnu
+12888;24964;25;;Maiden's Shield Shattered;Bouclier de la Vierge bris<e
+12968;24996;28;;Empire-Federation Talks Fail;Pourparlers Empire-F<d<ration <chouent
+13048;25032;28;;Miracle Recovery for Militia;R<cup<ration miraculeuse pour la Milice
+13128;25068;30;;Emergency Militia Draft Called;Projet d'appel d'urgence en Milice
+13208;25104;0;;;
+13288;25112;0;;;
+13368;25120;0;;;
+13448;25128;0;;;
+13528;25136;0;;;
+13608;25144;0;;;
+13688;25152;0;;;
+13768;25160;0;;;
+13848;25168;0;;;
+13928;25176;0;;;
+14008;25184;0;;;
+14088;25192;0;;;
+14168;25200;0;;;
+14248;25208;0;;;
+14328;25216;0;;;
+14408;25224;0;;;
+14488;25232;0;;;
+14568;25240;0;;;
+14648;25248;0;;;
+14728;25256;0;;;
+14808;25264;0;;;
+14888;25272;0;;;
+14968;25280;0;;;
+15048;25288;0;;;
+15128;25296;0;;;
+15208;25304;0;;;
+15288;25312;0;;;
+15368;25320;0;;;
+15448;25328;0;;;
+15528;25336;0;;;
+15608;25344;0;;;
+15688;25352;0;;;
+15768;25360;0;;;
+15848;25368;0;;;
+15928;25376;0;;;
+16008;25384;0;;;
+16088;25392;0;;;
+16168;25400;0;;;
+16248;25408;0;;;
+16328;25416;0;;;
+16408;25424;0;;;
+16488;25432;0;;;
+16568;25440;0;;;
+16648;25448;0;;;
+16728;25456;0;;;
+16808;25464;0;;;
+16888;25472;0;;;
+16968;25480;0;;;
+17048;25488;0;;;
+17128;25496;0;;;
+17208;25504;256;; &            About the Shamrock& &The turret atop Zaka's Shamrock can be&outfitted with one of the following three&weapons: anti-armor shells and mortars&like the Edelweiss, a gatling gun capable &of doing massive damage to a single ground&unit, or a flamethrower that can mow down&a line of enemies in front of the tank.&Go to Outfit Tanks and select the Shamrock&to switch between them at any time; &        A propos du Shamrock& &La tourelle du Shamrock de Zaka peut $tre&<quip<e de l'une des trois armes&suivantes: obus antichars et mortiers&comme l'Edelweiss, une mitrailleuse&Gatling capable de faire d'<normes d<gats&= un fantassin unique, ou un lance flamme&qui peut faucher une ligne d'ennemis en&face du char. Allez = Tuning char et&s<lectionnez le Shamrock pour passer = un&autre = n'importe quel moment.
+17288;25912;128;;The Cannon Turret uses shells and mortars.&The Gatling Turret stops single foot units.&The Flamethrower Turret hits a wide area.;La Tourelle Canon utilise obus et mortiers.&La Tourelle Gatling arr$te un seul fantassin.&Le lance-flammes frappe une large zone.
+17368;26048;80;;Turrets can be switched out at the R&D&Facility to whatever the mission demands.;Les Tourelles peuvent $tre <chang<es au&service R£D pour n'importe quelle exigence&de mission.
+17448;26136;437;;           About the Edelweiss's&          Top-Grade Enhancements& &The Edelweiss's top enhancement levels are&Reinforce Barrel 3, Reinforce Body 3 and&Reinforce Armor 3, only one of which can&be equipped at a time. Changing equipment&means scrapping the previous enhancement,&reverting to it later will require the R&D&fee to be paid again in full. Make your&equipment decisions carefully to avoid&unnecessary research fee expenditures.;       A propos des meilleures&am<liorations pour l'Edelweiss& &Les meilleures am<liorations de&l'Edelweiss sont Port<e Sup. 3,&Corps Sup. 3 et Armure Sup. 3, dont un&seul peut $tre <quip< = la fois.&Le changement d'<quipement signifie la&mise au rebut de l'am<lioration&pr<c<dente, pour y revenir plus tard,&il faudra payer = nouveau compl>tement&les frais de R£D. Choisissez vos&<quipement avec soin pour <viter les&d<penses en recherche inutiles.
+17528;26580;80;;Any new top-grade enhancement will be&added on after scrapping the previous one.;Toute nouvelle am<lioration de haut-niveau sera&ajout< apr>s la suppression de l'ancienne.
+17608;26668;117;;Restoring a scrapped enhancement will cost&the same amount as the initial research&fee. Choose your equipment wisely.;Restaurer une am<lioration supprim<&coutera le m$me montant que le cout de&recherche initial. Choisissez votre&<quipement = bon escient.
+17688;26792;8;;learned.;appris.
+17768;26808;39;;Let's take a full tour of headquarters.;Faisons le tour du quartier g<n<ral.
+17848;26852;28;;You don't have enough money.;Vous n'avez pas assez d'argent.
+17928;26888;0;;For now, try adding members until Squad 7&has 20 units.& &This is the only time you will be unable&to leave the Command Room with slots open.S;Pour l'instant, essayez d'ajouter 20 membres&= L'Escouade 7. C'est la seule fois que&vous serez incapable de quitter la salle&de commandement avec des postes libres.
+18008;27036;83;;This is the only time you will be unable&to leave the Command Room with slots open.;C'est la seule fois que vous serez incapable&de quitter la salle de commandement avec des&postes libres.
+18088;27124;22;;Exit Squad 7 Barracks?;Quitter la Caserne de l'Escouade7?
+18168;27152;24;;Exit the Training Field?;Quitter Terrain d'Entrainement?
+18248;27184;22;;Exit the R&D Facility?;Quitter le Service R£D?
+18328;27212;24;;Exit Castlefront Street?;Sortir de la Rue du Chateau?
+18408;27244;86;;You learned @fcfff00000:Evade Boost@fci:.&This order raises one ally's evasion&skills.;Vous avez appris @fcfff00000:Boost d'Esquive@fci:.&Cet ordre augmente les comp<tences&d'esquive d'un alli<.
+18488;27336;91;;You learned @fcfff00000:All Units Evade@fci:.&This order raises all allies' evasion&skills.;Vous avez appris @fcfff00000: Boost d'Esquive g<n<ral@fci:.&Cet ordre augmente les comp<tences d'esquive&de tous les alli<s.
+18568;27432;121;;You learned @fcfff00000:Caution@fci:.&This order protects one ally by reducing&damage taken from enemy interception fire.;Vous avez appris @fcfff00000:Prudence@fci:.&Cet ordre prot>ge un alli< en r<duisant les&d<gats subis par le feu ennemi.
+18648;27560;125;;You learned @fcfff00000:Concentrate Fire@fci:.&This order raises one ally's accuracy,&focusing their shots to a single point.;Vous avez appris @fcfff00000:Tir Concentr<@fci:.&Cet ordre augmente la pr<cision d'un alli<,&en concentrant leurs tirs en un seul point.
+18728;27692;101;;You learned @fcfff00000:Attack Boost@fci:.&This order raises one ally's anti-&personnel attack power.;Vous avez appris @fcfff00000:Boost d'Attaque@fci:.&Cet ordre augmente la puissance d'attaque&antipersonnel d'un alli<.
+18808;27800;106;;You learned @fcfff00000:All Units Attack@fci:.&This order raises all allies' anti-&personnel attack power.;Vous avez appris @fcfff00000:Attaque G<n<rale@fci:.&Cet ordre augmente la puissance d'attaque&antipersonnel de tous les alli<s.
+18888;27912;110;;You learned @fcfff00000:Neutralize@fci:.&This order protects one ally from being&counterattacked after firing.;Vous avez appris @fcfff00000:Neutralisation@fci:.&Cet ordre prot>ge un alli< d'$tre&contre-attaqu< apr>s avoir tir<.
+18968;28028;80;;You learned @fcfff00000:First Aid@fci:.&This order fully restores one ally's HP.;Vous avez appris @fcfff00000:Premiers secours@fci:.&Cet ordre restaure pleinement les HP&d'un alli<.
+19048;28116;95;;You learned @fcfff00000:Damage Boost@fci:.&This order raises one ally's anti-tank&attack power.;Vous avez appris @fcfff00000:Boost  Dommage@fci:.&Cet ordre augmente la puissance d'attaque&antichar d'un alli<.
+19128;28216;108;;You learned @fcfff00000:Demolition Boost@fci:.&This order greatly raises one ally's anti-&tank attack power.;Vous avez appris @fcfff00000:Boost  D<molition@fci:.&Cet ordre augmente grandement la puissance&d'attaque antichar d'un alli<.
+19208;28332;112;;You learned @fcfff00000:Healing Boost@fci:.&This order increases the amount one ally&can heal using Ragnaid (S).;Vous avez appris @fcfff00000:Boost de Soin@fci:.&Cet ordre augmente la quantit<  de soin que&peut soigner un alli< en utilisant Ragnaid.
+19288;28452;78;;You learned @fcfff00000:Resupply@fci:.&This order replenishes one ally's ammo.;Vous avez appris @fcfff00000:Ravitaillez@fci:.&Cet ordre r<g<n>re les munitions d'un alli<.
+19368;28536;81;;You learned @fcfff00000:Defense Boost@fci:.&This order raises one ally's defense.;Vous avez appris @fcfff00000:Boost D<fense@fci:.&Cet ordre augmente la d<fense d'un alli<.
+19448;28624;85;;You learned @fcfff00000:All Units Defend@fci:.&This order raises all allies' defense.;Vous avez appris @fcfff00000:D<fense G<n<rale@fci:.&Cet ordre augmente la d<fense de tous les alli<s.
+19528;28716;84;;You learned @fcfff00000:Antidote@fci:.&This order cures one ally of negative&status.;Vous avez appris @fcfff00000:Antidote@fci:.&Cet ordre gu<rit un alli< de statut n<gatif.
+19608;28808;127;;You learned @fcfff00000:Explosives Boost@fci:.&This order raises the damage one ally can&do when attacking with a hand grenade.;Vous avez appris @fcfff00000:Boost en explosifs@fci:.&Cet ordre augmente les d<gats qu'un alli<&peut faire avec une grenade.
+19688;28940;78;;You learned @fcfff00000:Aim Boost@fci:.&This order raises one ally's accuracy.;Vous avez appris @fcfff00000:Boost en Vis<e@fci:.&Cet ordre augmente la pr<cision d'un alli<.
+19768;29024;83;;You learned @fcfff00000:All Units Aim@fci:.&This order raises all allies' accuracy.;Vous avez appris @fcfff00000:Visez Tous@fci:.&Cet ordre augmente la pr<cision&de tous les alli<s.
+19848;29112;108;;You learned @fcfff00000:Penetration@fci:.&This order allows one ally's attacks to&ignore any enemy defenses.;Vous avez appris @fcfff00000:P<n<tration@fci:.&Cet ordre permet aux attaques d'un alli<&d'ignorer toutes les d<fenses ennemies.
+19928;29228;111;;You learned @fcfff00000:Attack Weak Spot@fci:.&This order makes all of one ally's attacks&deal critical damage.;Vous avez appris @fcfff00000:Tir Critique@fci:.&Cet ordre permet que toutes les attaques d'un&alli< infligent des d<gats critiques.
+20008;29344;118;;You learned @fcfff00000:Sniper Support@fci:.&This order commands a support team to&hit one enemy with a sniper attack.;Vous avez appris @fcfff00000:Tir de Sniper@fci:.&Cet ordre commande une <quipe de soutien de&frapper un ennemi avec une attaque de sniper.
+20088;29468;106;;You learned @fcfff00000:Mortar Support@fci:.&This order calls in a mortar blast&centered around one enemy.;Vous avez appris @fcfff00000:Tir de Mortier@fci:.&Cet ordre appelle une explosion de mortier&centr<e autour d'un ennemi.
+20168;29580;128;;You learned @fcfff00000:Artillery Support@fci:.&This order commands a support team to&damage all enemies with a barrage of fire.;Vous avez appris @fcfff00000:Tir d'Artillerie@fci:.   Cet ordre commande =&l'<quipe de soutien de blesser tous les&ennemis avec un tir de barrage.
+20248;29716;91;;You learned @fcfff00000:Retreat@fci:.&This order forces one ally to retreat&from the field.;Vous avez appris @fcfff00000:Retraite@fci:.&Cet ordre force un alli< de se retirer&du terrain.
+20328;29812;96;;You learned @fcfff00000:Medic Request@fci:.&This order evacuates one ally in critical&condition.;Vous avez appris @fcfff00000:Demande Medic@fci:.&Cet ordre <vacue un alli<&dans un <tat critique.
+20408;29916;86;;You learned @fcfff00000:Healing Request@fci:.&This order restores some HP to one ally.;Vous avez appris @fcfff00000:Demande de soin@fci:.&Cet ordre restaure quelques HP pour un alli<.
+20488;30008;81;;You learned @fcfff00000:Heal All@fci:.&This order restores some HP to all allies.;Vous avez appris @fcfff00000:Soin G<n<ral@fci:.&Cet ordre restaure quelques HP =&tous les alli<s.
+20568;30096;118;;You learned @fcfff00000:Awaken Potential@fci:.&This order draws out the innate abilities&(Potentials) within one ally.;Vous avez appris @fcfff00000:Plein Potentiel@fci:.&Cet ordre fait surgir les capacit<s inn<es&(potentiels) au sein d'un alli<.
+20648;30220;114;;You learned @fcfff00000:Awaken All@fci:.&This order draws out the innate abilities&(Potentials) within all allies.;Vous avez appris @fcfff00000:Potentiel Global@fci:.&Cet ordre fait surgir les capacit<s inn<es&(potentiels) au sein de tous les alli<s.
+20728;30340;101;;You learned @fcfff00000:Recon Request@fci:.&This order uncovers the current positions&of all enemies.;Vous avez appris @fcfff00000:Reconnaissance@fci:.&Cet ordre d<couvre les positions actuelles&de tous les ennemis.
+20808;30448;45;;Develop new firearms and improved tank parts.;D<velopper des armes = feu et des pi>ces de chars am<lior<s.
+20888;30500;51;;Select optional parts and view tank specifications.;S<lection des pi>ces optionnelles et voir les sp<c. du char.
+20968;30556;0;;Upgrading your unit classes to Elites adds&a special bonus atop their normal growth.& &Some classes also become able to wield new&types of advanced weaponry.& &Keep up the training and try to get all of&Squad 7's units up to Elite status!;Augmenter vos classes au niveau Elite&ajoute un bonus sp<cial en sus de leur&croissance normale.&Certaines classes ont <galement acc>s =&de nouveaux types d'armes avanc<es.& &Continuez les entrainements et essayer&d'avoir toutes les unit<s de&l'Escouade7 au statut Elite!

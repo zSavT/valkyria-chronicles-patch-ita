@@ -1,0 +1,276 @@
+1236;23316;4;; Yes; Oui
+1316;23328;4;;  No; Non
+1396;23340;26;;The disc has been removed.;Le disque a <t< retir<.
+1476;23372;23;;Squad 7 Member Register;Registre des membres 7s
+1556;23400;6;;Living;Vivant
+1636;23412;8;;Deceased;Mort
+1716;23428;1;; ; 
+1796;23436;0;;Set the up/down camera controls used in combat.&Normal:   Up - Look up     Down - Look down&Reversed: Up - Look down   Down - Look up;Controle camera haut/bas utilis< en combat.&Normal:   Haut - Vue monte  Bas - Vue baisse&Reversed: Haut - Vue baisse   Bas - vue monte
+1876;23576;0;;Set the left/right camera controls used in combat.&Normal:   Left - Look left    Right - Look right&Reversed: Left - Look right   Right - Look left;Controle camera gauche/droite utilis< en combat&Normal: Gauche - Vue = gauche  Droit - Vue = droite&Reversed : L'inverse                   
+1956;23728;0;;Set the up/down targeting controls used in combat.&Normal:   Up - Aim up     Down - Aim down&Reversed: Up - Aim down   Down - Aim up;Controle du ciblage haut/bas  utilis< en combat.&Normal:   Haut - Viseur monte Bas - Viseur baisse&Reversed: L'inverse         
+2036;23868;0;;Set the left/right targeting controls used in combat.&Normal:   Left - Aim left    Right - Aim right&Reversed: Left - Aim right   Right - Aim left;Controle du ciblage droite/gauche utilis< en combat.&Normal: Gauche-Viseur va = gauche Droite-= droite&Reversed: L'inverse           
+2116;24020;0;;Set the view mode used during the enemy's phase.&Short: Watch no actions in full view&Normal: Watch some actions   Full: Watch all actionsX;Definir la vue utilis< pendant les phases ennemies&Short: Voir aucunue action en pleine vue&Normal: Voir qq actions   Full: Voir tout
+2196;24164;88;;Turn on/off subtitles during movie sequences.&On: Display subtitles  Off: Hide subtitles;Mettre/enlever sous-titre pendant cinématique.&On: Les voir  Off: Pas de sous-titre
+2276;24260;92;;Select voice language.&Voice language can only be changed via&£OPTIONS£ on the Title Screen.;R<glage du langage.Le Langage utilis< pour les voix ne&peut $tre r<gler que dans OPTIONS dans l'<cran titre 
+2356;24360;91;;Set the volume for background music.&(Volume levels for movie sequences cannot be changed.);R<glez le volume de la musique de fond. & (Niveaux de volume pour les s<quences&vid<o ne peuvent pas $tre modifi<es.)
+2436;24456;88;;Set the volume for sound effects.&(Volume levels for movie sequences cannot be changed.);R<gler le volume des effets sonores. & (Niveaux de volume pour les s<quences vid<o&ne peuvent pas $tre modifi<es.)
+2516;24552;91;;Display a color bar to help calibrate your television&to an appropriate brightness setting.;Afficher une barre de couleur pour aider = calibrer votre t<l<viseur&= un r<glage de la luminosit< appropri<e.
+2596;24648;45;;Restore all settings to their default values.;Restaurer tous les param>tres =&leurs valeurs par d<faut.
+2676;24700;53;;Save changes to game settings&and return to the game.;Enregistrer les modifications de r<glages du jeu&et revenir au jeu.
+2756;24760;45;;Restore all settings to their&default values?;Restaurer tous les param>tres =&leurs valeurs par d<faut?
+2836;24812;39;;Discard changes and return to the game?;Annuler modifications et revenir au jeu?
+2916;24856;124;;This game saves data automatically at certain points.&Do not switch off the power when the HDD access indicator is flashing.;Ce jeu enregistre les donn<es automatiquement = certains moments.&Ne pas couper l'alimentation lorsque l'indicateur d'acc>s disque dur clignote.
+2996;24988;112;;There is not enough free space on the hard disk drive.&At least 5MB of free space is required to play this game.;Il n'y a pas assez d'espace libre sur le disque dur.&Au moins 5 Mo d'espace libre est n<cessaire pour jouer = ce jeu.
+3076;25108;97;;No Valkyria Chronicles system data exists.&New system data will be created to save game settings.;Pas de donn<es syst>me Valkyria Chronicles existante.&Nouvelles donn<es syst>me seront&cr<<s pour enregistrer les param>tres de jeu.
+3156;25212;116;;Valkyria Chronicles system data is corrupted.&Would you like to delete the damaged data, and create new system data?;Les donn<es du jeu sont corrompues. Souhaitez-vous supprimer&les donn<es endommag<es, et cr<er de nouvelles donn<es du syst>me?
+3236;25336;103;;The latest Valkyria Chronicles play data is corrupted and cannot be used.&Please delete it to continue.;Les derni>res donn<es de Valkyria Chronicles sont corrompues et&ne peuvent $tre utilis<es.S'il vous plait supprimer les pour continuer
+3316;25444;18;;Now auto-saving...;Auto-sauvegarde en cours ...
+3396;25468;33;;Please delete unneeded save data.;S'il vous plait supprimer les donn<es inutiles enregistrer.
+3476;25508;12;;Load failed.;Chargement <chou<.
+3556;25528;74;;Valkyria Chronicles play data is corrupted.&Delete the corrupted file now?;Les donn<es de jeu sont corrompues.&Supprimer le fichier corrompu maintenant?
+3636;25608;0;;Creating save data to save your&completed game. By loading this save&data. You can carry over what you've&earned to a new game and play through&the game again.;Cr<ation donn<es de sauvegarde&pour enregistrer votre jeu fini.&En chargeant cette sauvegarde,&vous pouvez conserver ce que&vous avez gagn< dans une&nouvelle partie et refaire le&jeu = nouveau avec.
+3716;25772;13;;New Save Data;Nouvelle sauvegarde
+3796;25792;19;;Valkyria Chronicles;Valkyria Chronicles
+3876;25816;11;;System Data;Donn<e syst>me
+3956;25832;17;;Cleared Save Data;Efface suavegarde
+4036;25856;9;;Play Data;Donn<e de jeu
+4116;25872;9;;Book Mode;Mode Livre
+4196;25888;12;;Command Mode;Mode Commande
+4276;25908;4;;hrs.;hrs.
+4356;25920;4;;min.;min.
+4436;25932;4;;sec.;sec.
+4516;25944;19;;Game settings data.;Options
+4596;25968;0;;;
+4676;25976;0;;;
+4756;25984;0;;"Contains save data from a&completed game. By loading this&""save data"" you can carry over&what you've earned to a new game&and play through the game again.";Contient une sauvegarde d'un jeu&compl<t<. En chargeant cette&partie vous pouvez garder ce que&vous avez gagn< pour une nouvelle partie et rejouer.
+4836;26144;0;;;
+4916;26152;0;;;
+4996;26160;26;;Prologue: Gallia, to Arms!;Prologue: Gallia, aux armes!
+5076;26192;0;;;
+5156;26200;0;;;
+5236;26208;26;;Ch. 1: In Defense of Bruhl;Ch. 1: Pour la d<fense de Bruhl
+5316;26240;0;;;
+5396;26248;0;;;
+5476;26256;24;;Ch. 2: Escape from Bruhl;Ch. 2: S'<chapper de Bruhl
+5556;26288;0;;;
+5636;26296;0;;;
+5716;26304;26;;Ch. 3: Vasel Urban Warfare;Ch. 3: Guerre urbaine = Vasel
+5796;26336;0;;;
+5876;26344;0;;;
+5956;26352;27;;Ch. 4: Operation Cloudburst;Ch. 4: Operation Cloudburst
+6036;26384;0;;;
+6116;26392;0;;;
+6196;26400;26;;Ch. 5: The Kloden Wildwood;Ch. 5: For$t Sauvage de Kloden
+6276;26432;0;;;
+6356;26440;0;;;
+6436;26448;25;;Ch. 6: A Desert Encounter;Ch. 6: Une rencontre du d<sert
+6516;26480;0;;;
+6596;26488;0;;;
+6676;26496;28;;Ch. 7: The Battle at Barious;Ch. 7: La bataille de Barious
+6756;26532;0;;;
+6836;26540;0;;;
+6916;26548;25;;Ch. 8: The Woodland Snare;Ch. 8: Le Pi<ge de Woodland
+6996;26580;0;;;
+7076;26588;0;;;
+7156;26596;27;;Ch. 9: A Midsummer Incident;Ch. 9: L'Incident de la mi-<t<
+7236;26628;0;;;
+7316;26636;0;;;
+7396;26644;28;;Ch. 10: Liberation of Fouzen;Ch. 10: Lib<ration de Fouzen
+7476;26680;0;;;
+7556;26688;0;;;
+7636;26696;26;;Ch. 11: The Marberry Shore;Ch. 11: Le Rivage Marberry
+7716;26728;0;;;
+7796;26736;0;;;
+7876;26744;27;;Ch. 12: The Fight for Bruhl;Ch. 12: La lutte pour Bruhl
+7956;26776;0;;;
+8036;26784;0;;;
+8116;26792;28;;Ch. 13: The Clash at Naggiar; Ch. 13: Le Clash de Naggiar
+8196;26828;0;;;
+8276;26836;0;;;
+8356;26844;27;;Ch. 14: Loss Within Victory;Ch. 14: Perte Dans la Victoire
+8436;26876;0;;;
+8516;26884;0;;;
+8596;26892;27;;Ch. 15: Citadel Ghirlandaio;Ch. 15: La Citadelle de Ghirlandaio
+8676;26924;0;;;
+8756;26932;0;;;
+8836;26940;27;;Ch. 16: The Maiden's Shield;Ch. 16: Le Bouclier de la Vierge
+8916;26972;0;;;
+8996;26980;0;;;
+9076;26988;26;;Ch. 17: The Bridge to Hope;Ch. 17: Le Pont vers l'Espoir
+9156;27020;0;;;
+9236;27028;0;;;
+9316;27036;30;;Finale: Shadow of the Valkyrur;Finale: L'Ombre des Valkyrur
+9396;27072;0;;;
+9476;27080;0;;;
+9556;27088;8;;Epilogue;Epilogue
+9636;27104;0;;;
+9716;27112;0;;;
+9796;27120;26;;Prologue: Gallia, to Arms!;Prologue: Gallia, aux armes!
+9876;27152;0;;;
+9956;27160;0;;;
+10036;27168;26;;Ch. 1: In Defense of Bruhl;Ch. 1: Pour la d<fense de Bruhl
+10116;27200;0;;;
+10196;27208;0;;;
+10276;27216;24;;Ch. 2: Escape from Bruhl;Ch. 2: S'<chapper de Bruhl
+10356;27248;0;;;
+10436;27256;0;;;
+10516;27264;26;;Ch. 3: Vasel Urban Warfare;Ch. 3: Guerre urbaine = Vasel
+10596;27296;0;;;
+10676;27304;0;;;
+10756;27312;27;;Ch. 4: Operation Cloudburst;Ch. 4: Operation Cloudburst
+10836;27344;0;;;
+10916;27352;0;;;
+10996;27360;26;;Ch. 5: The Kloden Wildwood;Ch. 5: For$t Sauvage de Kloden
+11076;27392;0;;;
+11156;27400;0;;;
+11236;27408;25;;Ch. 6: A Desert Encounter;Ch. 6: Une rencontre du d<sert
+11316;27440;0;;;
+11396;27448;0;;;
+11476;27456;28;;Ch. 7: The Battle at Barious;Ch. 7: La bataille de Barious
+11556;27492;0;;;
+11636;27500;0;;;
+11716;27508;25;;Ch. 8: The Woodland Snare;Ch. 8: Le Pi<ge de Woodland
+11796;27540;0;;;
+11876;27548;0;;;
+11956;27556;27;;Ch. 9: A Midsummer Incident;Ch. 9: L'Incident de la mi-<t<
+12036;27588;0;;;
+12116;27596;0;;;
+12196;27604;28;;Ch. 10: Liberation of Fouzen;Ch. 10: Lib<ration de Fouzen
+12276;27640;0;;;
+12356;27648;0;;;
+12436;27656;26;;Ch. 11: The Marberry Shore;Ch. 11: Le Rivage Marberry
+12516;27688;0;;;
+12596;27696;0;;;
+12676;27704;27;;Ch. 12: The Fight for Bruhl;Ch. 12: La lutte pour Bruhl
+12756;27736;0;;;
+12836;27744;0;;;
+12916;27752;28;;Ch. 13: The Clash at Naggiar; Ch. 13: Le Clash de Naggiar
+12996;27788;0;;;
+13076;27796;0;;;
+13156;27804;27;;Ch. 14: Loss Within Victory;Ch. 14: Perte Dans la Victoire
+13236;27836;0;;;
+13316;27844;0;;;
+13396;27852;27;;Ch. 15: Citadel Ghirlandaio;Ch. 15: La Citadelle de Ghirlandaio
+13476;27884;0;;;
+13556;27892;0;;;
+13636;27900;27;;Ch. 16: The Maiden's Shield;Ch. 16: Le Bouclier de la Vierge
+13716;27932;0;;;
+13796;27940;0;;;
+13876;27948;26;;Ch. 17: The Bridge to Hope;Ch. 17: Le Pont vers l'Espoir
+13956;27980;0;;;
+14036;27988;0;;;
+14116;27996;30;;Finale: Shadow of the Valkyrur;Finale: L'Ombre des Valkyrur
+14196;28032;0;;;
+14276;28040;0;;;
+14356;28048;8;;Epilogue;Epilogue
+14436;28064;0;;;
+14516;28072;0;;;
+14596;28080;95;;Valkyria Chronicles game data is corrupted.&Please exit the game and delete the corrupted data.;Valkyria Chronicles game data is corrupted.&Please exit the game and delete the corrupted data.
+14676;28180;0;;Valkyria Chronicles game data will be installed to your hard disk drive.&Do not terminate installation or switch off the power when the HDD access indicator is flashing.&Doing so will result in game data being corrupted.&Begin the installation process?3;Valkyria Chronicles game data will be installed to your hard disk drive.&Do not terminate installation or switch off the power when the HDD access indicator is flashing.&Doing so will result in game data being corrupted.&Begin the installation process?4
+14756;28440;51;;Valkyria Chronicles game data is already installed.;Valkyria Chronicles game data is already installed.
+14836;28496;95;;Valkyria Chronicles game data is corrupted.&Please exit the game and delete the corrupted data.;Valkyria Chronicles game data is corrupted.&Please exit the game and delete the corrupted data.
+14916;28596;116;;There is not enough free space on the hard disk drive.&At least 4 GB of free space is required to install game data.;There is not enough free space on the hard disk drive.&At least 4 GB of free space is required to install game data.
+14996;28720;123;;Installation cancelled.&Please exit the game and delete the incomplete game data.&Game data can be reinstalled at any time.;Installation cancelled.&Please exit the game and delete the incomplete game data.&Game data can be reinstalled at any time.
+15076;28848;22;;Installation complete.;Installation complete.
+15156;28876;118;;The game data is corrupted.&Please exit the game and delete the corrupted data.&Now reading data from the game disc...;The game data is corrupted.&Please exit the game and delete the corrupted data.&Now reading data from the game disc...
+15236;29000;78;;Installation failed.&Please exit the game and delete the incomplete game data.;Installation failed.&Please exit the game and delete the incomplete game data.
+15316;29084;0;;;
+15396;29092;0;;;
+15476;29100;0;;;
+15556;29108;0;;;
+15636;29116;0;;;
+15716;29124;0;;;
+15796;29132;0;;;
+15876;29140;0;;;
+15956;29148;0;;;
+16036;29156;0;;;
+16116;29164;0;;;
+16196;29172;0;;;
+16276;29180;0;;;
+16356;29188;0;;;
+16436;29196;0;;;
+16516;29204;0;;;
+16596;29212;0;;;
+16676;29220;0;;;
+16756;29228;0;;;
+16836;29236;0;;;
+16916;29244;0;;;
+16996;29252;0;;;
+17076;29260;0;;;
+17156;29268;0;;;
+17236;29276;0;;;
+17316;29284;0;;;
+17396;29292;0;;;
+17476;29300;0;;;
+17556;29308;0;;;
+17636;29316;0;;;
+17716;29324;0;;;
+17796;29332;0;;;
+17876;29340;0;;;
+17956;29348;0;;;
+18036;29356;0;;;
+18116;29364;0;;;
+18196;29372;0;;;
+18276;29380;0;;;
+18356;29388;0;;;
+18436;29396;0;;;
+18516;29404;0;;;
+18596;29412;0;;;
+18676;29420;0;;;
+18756;29428;0;;;
+18836;29436;0;;;
+18916;29444;0;;;
+18996;29452;0;;;
+19076;29460;0;;;
+19156;29468;0;;;
+19236;29476;0;;;
+19316;29484;1;;0;0
+19396;29492;1;;1;1
+19476;29500;1;;2;2
+19556;29508;1;;3;3
+19636;29516;1;;4;4
+19716;29524;1;;5;5
+19796;29532;1;;6;6
+19876;29540;1;;7;7
+19956;29548;1;;8;8
+20036;29556;1;;9;9
+20116;29564;1;; ; 
+20196;29572;2;;££;££
+20276;29580;1;;/;/
+20356;29588;18;;Encounter at Bruhl;Rencontre = Bruhl
+20436;29612;16;;Defense of Bruhl;D<fense de Bruhl
+20516;29636;18;;Retreat from Bruhl;Retraite de Bruhl
+20596;29660;23;;West Bank of Vasel City;Rive ouest de Vasel
+20676;29688;21;;Battle for the Bridge;Bataille pour le pont
+20756;29716;26;;Wildwood Warfare at Kloden;Combat Forestier = Kloden
+20836;29748;24;;Battle of Barious Desert;Bataille du D<sert Barious
+20916;29780;27;;Desert Duel with Maximilian;Duel avec Maximilian au D<sert 
+20996;29812;24;;Escape from Forest Snare;Echapper au Pi<ge de la For$t
+21076;29844;21;;Reunion in the Forest;R<union dans la for$t
+21156;29872;22;;Kidnapping of Cordelia;Enl>vement de Cordelia
+21236;29900;22;;Infiltration of Fouzen;Infiltration de Fouzen
+21316;29928;20;;Liberation of Fouzen;Lib<ration de Fouzen
+21396;29956;24;;Battle at Marberry Shore;Bataille du Rivage Marberry
+21476;29988;18;;Recapture of Bruhl;R<cup<ration de Bruhl
+21556;30012;23;;Showdown at Naggiar (1);Confrontation = Naggiar (1)
+21636;30040;23;;Showdown at Naggiar (2);Confrontation = Naggiar (2)
+21716;30068;21;;Fight for Ghirlandaio;Lutte pour Ghirlandaio
+21796;30096;21;;Selvaria's Last Stand;Dernier Combat de Selvaria
+21876;30124;21;;Diverting the Marmota;D<viation du Marmota
+21956;30152;27;;Breaching Jaeger's Blockade;Percer le blocus de Jaeger
+22036;30184;13;;Marmota's End;La Fin du Marmota
+22116;30204;14;;Final Showdown;Confrontation finale
+22196;30224;24;;Vegetable Route Incident;L'incident de la route des L<gumes
+22276;30256;28;;Taking the Barious Highlands;Prise des Highlands = Barious
+22356;30292;24;;Hostage Rescue Operation;Op<ration de sauvetage d'otages
+22436;30324;25;;An End to Darcsen Hunting;La fin de la Chasse Darcsen
+22516;30356;25;;Guarding the Refugee Camp;La Garde du camp de r<fugi<s
+22596;30388;18;;Outskirts of Bruhl;Banlieue de Bruhl
+22676;30412;15;;Vasel Riverside;Rive de Vasel 
+22756;30432;15;;Kloden Wildwood;Kloden Wildwood
+22836;30452;14;;Barious Desert;D<sert Barious
+22916;30472;12;;Upper Fouzen;Fouzen du haut
+22996;30492;14;;Marberry Shore;Rivage Marberry
+23076;30512;14;;Windmill Plaza;Place du Moulin = Vent
+23156;30532;14;;Naggiar Plains;Plaines de Naggiar
+23236;30552;23;;East Bank of Vasel City;Rive orientale de Vasel

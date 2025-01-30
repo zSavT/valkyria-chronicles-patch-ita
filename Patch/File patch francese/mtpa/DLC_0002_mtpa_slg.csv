@@ -1,0 +1,177 @@
+840;15000;3;;Yes;Oui
+920;15008;2;;No;Non
+1000;15016;9;;End Phase;Fin de la phase
+1080;15032;9;;Personnel;Personnel
+1160;15048;10;;Objectives;Objectifs
+1240;15064;11;;Destination;Destination
+1320;15080;6;;System;Syst>me
+1400;15092;21;;End the player phase.;Fin de la phase joueur.
+1480;15120;30;;View data on combat personnel.;Voir les donn<es sur les combattants.
+1560;15156;49;;View the battle's victory and failure conditions.;Voir les condition de victoire et d'<chec de la bataille.
+1640;15212;21;;Select a destination.;S<lectionnez une destination.
+1720;15240;48;;Change game settings or save/load game progress.;Modifier options du jeu ou sauver/charger la progression.
+1800;15296;22;;End the current phase?;Fin de la phase actuelle?
+1880;15324;6;;Deploy;D<ployer
+1960;15336;1;;/;/
+2040;15344;1;; ; 
+2120;15352;8;;En Route;En Route
+2200;15368;7;;Call In;Appelez
+2280;15380;4;;Left;Gauche
+2360;15392;25;;Call in additional units?;Appelez des renforts?
+2440;15424;27;;Order this unit to retreat?;Ordonner = cette unit< de faire retraite?
+2520;15456;23;;End the current action?;Mettre fin = l'action en cours?
+2600;15484;35;;Units cannot leave the combat zone!;Les unit<s ne peuvent quitter le combat!
+2680;15524;30;;Imperials sighted to the XXXX!;Imp<riaux apercus direction XXXX!
+2760;15560;4;;east;Est
+2840;15572;4;;west;Ouest
+2920;15584;5;;south;Sud
+3000;15596;5;;north;Nord
+3080;15608;2;;NE;NE
+3160;15616;2;;SE;SE
+3240;15624;2;;NW;NO
+3320;15632;2;;SW;SO
+3400;15640;7;;Defense;D<fense
+3480;15652;5;;Field;Terrain
+3560;15664;6;;Meadow;Prairie
+3640;15676;5;;Water;Eau
+3720;15688;5;;Swamp;Marais
+3800;15700;6;;Trench;Tranch<e
+3880;15712;6;;vsPers;ContrePerso
+3960;15724;7;;vsArmor;ContreArmure
+4040;15736;4;;Area;Zone
+4120;15748;5;;Shots;Tirs
+4200;15760;7;;To kill;Tu< en
+4280;15772;3;;Aim;Cible
+4360;15780;5;;Range;Port<e
+4440;15792;4;;Ammo;Munitions
+4520;15804;3;;Def;Def
+4600;15812;5;;Likes;Appr<cie
+4680;15824;7;;Details;D<tails
+4760;15836;7;;CP Cost;Cout CP
+4840;15848;1;;-;-
+4920;15856;1;; ; 
+5000;15864;1;; ; 
+5080;15872;1;;?;?
+5160;15880;2;;‡;‡
+5240;15888;6;;Orders;Ordres
+5320;15900;34;;Issue an order Welkin has learned.;Emmettre un ordre que Welkin a appris.
+5400;15940;4;;Save;Enregistrer
+5480;15952;42;;Save game progress to the hard disk drive.;Enregistrer progression du jeu.
+5560;16000;4;;Load;Charger
+5640;16012;36;;Load Save Data from a previous save.;Charger les donn<es d'une sauvegarde pr<c<dente.
+5720;16056;7;;Options;Options
+5800;16068;21;;Change game settings.;Modifier les options du jeu.
+5880;16096;12;;Title Screen;Ecran Titre
+5960;16116;58;;Return to the Title Screen. Unsaved progress will be lost!;Retour = l'<cran titre. Progr>s non sauv<s seront perdus!
+6040;16180;86;;If you return to the Title Screen,&any unsaved progress will be lost.&Continue anyway?;Si vous revenez = l'<cran titre, tout&progr>s non enregistr< sera perdu.&Continuer quand m$me?
+6120;16272;33;;^w256^ has been safely evacuated.;^w256^ a <t< <vacu< en toute s<curit<.
+6200;16312;7;;Victory;Victoire
+6280;16324;7;;Failure;Echec
+6360;16336;10;;Evaluation;Evaluation
+6440;16352;45;;The enemy is deployed around their base camp.;L'ennemi est d<ploy< autour de leur camp de base.
+6520;16404;85;;Our force will split into two teams: one along the&riverbank, one in the city proper.;Notre force sera divis< en deux <quipes: une le long de&la rive, l'autre dans la ville proprement dite.
+6600;16496;40;;Once everyone is in place, we'll attack.;Une fois que tout le monde est en place,&nous allons attaquer.
+6680;16544;79;;When the enemy base camp successfully occupied,&the operation will be complete.;Lorsque le camp de base de l'ennemi sera occup< avec succ>s,&l'op<ration sera termin<e.
+6760;16628;51;;Please make the necessary preparations immediately!;SVP faisez les pr<paratifs n<cessaires imm<diatement!
+6840;16684;52;;The details on the current operation are as follows.;Les d<tails sur l'op<ration en cours sont les suivants.
+6920;16744;60;;Assign your soldiers their positions and prepare for combat.;Affectez vos soldats = leurs positions et&pr<parez vous pour le combat.
+7000;16812;68;;Let's begin the operation.&Everyone just keep calm and stay focused!;Commencons l'op<ration.&Tout le monde, gardez juste votre calme et restez concentr<!
+7080;16888;46;;Here are the details on the current operation.;Voici les d<tails sur l'op<ration en cours.
+7160;16940;58;;Get your soldiers into position and ready for combat, now!;Mettez vos soldats en position et&pr$t pour le combat, immediatement!
+7240;17004;60;;The operation has officially begun.&I'm expecting good news.;L'op<ration a officiellement commenc<.&Je m'attends = de bonnes nouvelles.
+7320;17072;16;;Ready to deploy?;Pr$t = se d<ployer?
+7400;17096;20;;Return to Book Mode?;Retour au Mode Livre?
+7480;17124;41;;Unfilled positions remain. Deploy anyway?;Positions vacantes restantes.&D<ployer quand m$me?
+7560;17172;6;;Deploy;D<ployer
+7640;17184;14;;Position Units;Positionner Unit<s
+7720;17204;10;;Objectives;Objectifs
+7800;17220;9;;Book Mode;Mode Livre
+7880;17236;33;;End briefing and commence combat.;Fin du Briefing et d<buter le combat.
+7960;17276;46;;You can also press the START button to deploy.;Vous pouvez aussi appuyer sur le bouton START pour d<ployer.
+8040;17328;33;;Place squad members on the field.;Placez les membres de l'escouade sur le terrain.
+8120;17368;0;;;
+8200;17376;49;;View the battle's victory and failure conditions.;Voir les conditions de victoire et d'<chec de la bataille.
+8280;17432;0;;;
+8360;17440;38;;Exit briefing and return to Book Mode.;Quitter briefing et revenir au Mode Livre.
+8440;17484;0;;;
+8520;17492;5;;Evade;Esquive
+8600;17504;8;;HP Drain;Perte HP
+8680;17520;7;;Special;Sp<cial
+8760;17532;17;;Issue this order?;Emettre cet ordre?
+8840;17556;20;;Occupied enemy camp.;Camp ennemi occup<.
+8920;17584;35;;Gallian camp occupied by the enemy.;Camp gallien occup< par l'ennemi.
+9000;17624;12;;Defense Down;Baisse de D<fense
+9080;17644;13;;Accuracy Down;Baisse de Pr<cision
+9160;17664;11;;Attack Down;Baisse d'Attaque
+9240;17680;7;;HP Down;Baisse d'HP
+9320;17692;60;;A medal awaits you in the Audience Hall for merit in combat.;S'il vous plait allez = la Salle d'Audience.&Cordelia vous attend.
+9400;17760;7;;Seized ;Saisi 
+9480;17772;16;; from the enemy.;  par l'ennemi.
+9560;17796;13;;Combat Report;Rapport de combat
+9640;17816;12;;Unit Details;D<tails sur l'Unit<
+9720;17836;9;;Equipment;Equipement
+9800;17852;14;;Potential Info;Infos sur Potentiel
+9880;17872;10;;Order Info;Infos sur Ordre
+9960;17888;0;;;
+10040;17896;42;;Here are details on the current operation.;Voici plus de d<tails sur l'op<ration en cours.
+10120;17944;79;;We're prepared to commence the operation.&I look forward to good news from you.;Nous sommes pr$ts = commencer l'op<ration.&J'ai hate d'avoir de bonnes nouvelles de votre part.
+10200;18028;36;;Here is a brief on the task at hand.;Voici un briefing sur la tache = accomplir.
+10280;18072;70;;Now, let's begin the operation.&I'm confident victory is within reach.;Maintenant, nous allons commencer l'op<ration.&Je suis confiante, la victoire est = port<e de main.
+10360;18148;41;;You will now be briefed on the operation.;Vous allez maintenant avoir le plan de l'op<ration.
+10440;18196;41;;All right, we're set to begin.&Good luck!;Tr>s bien, nous sommes pr$ts = commencer. Bonne chance!
+10520;18244;45;;Let me catch you up on the current situation.;Permettez-moi de vous informer sur la situation actuelle.
+10600;18296;49;;You'll commence combat now.&Stay sharp out there.;Vous d<butez le combat imm<diatement.&Rester concentr< l=-bas.
+10680;18352;27;;Here is your mission brief.;Voici votre plan de mission.
+10760;18384;85;;If there are no questions, let's get started.&I wish you good luck and happy hunting.;S'il n'y a pas de questions, nous allons commencer.&Je vous souhaite bonne chance et bonne chasse.
+10840;18476;92;;Let me brief you on Operation Cloudburst.&We'll be working with the Vasel Defense Battalion.;Permettez-moi de vous informer sur l'op<ration Cloudburst.&Nous allons travailler avec le Bataillon D<fense de Vasel .
+10920;18576;72;;Operation Cloudburst is set to begin.&I know you can all make this work.;L'op<ration Cloudburst est pr$te = commencer.&Je sais que vous pouvez tous faire ce travail.
+11000;18656;97;;We have an emergency on our hands. Princess Cordelia has&been kidnapped by Federation operatives.;Nous avons une urgence sur les bras. La Princesse Cordelia&a <t< kidnapp<e par des agents de la F<d<ration.
+11080;18760;94;;Your mission is to rescue Her Highness unharmed.&Failure isn't an option on this one soldiers.;Votre mission est de sauver Son Altesse indemne.&L'<chec n'est pas une option ici soldats.
+11160;18860;95;;This is a full-scale showdown against the Empire's&entire invasion force. Here are the details.;C'est une confrontation = grande <chelle contre&toute la force d'invasion de l'Empire. En voici les d<tails.
+11240;18960;74;;It's time to begin the operation.&I ask that you give me 100% on this one.;Il est temps de commencer l'op<ration.&Je vous demande de vous donner = 100% sur celle-ci.
+11320;19040;90;;We're about to commence Operation Maiden's Shield &together with the Randgriz Royal Guard.;Nous sommes sur le point de commencer l'Op<ration&Bouclier dela Vierge avec la Garde royale de Randgriz.
+11400;19136;110;;Letting the enemy past here means allowing them into the&capital. That must be avoided at any cost. Good luck!;Laisser l'ennemi pass< ici, leur permettra d'entrer dans la&capitale. Ce qui doit $tre <vit< = tout prix. Bonne chance!
+11480;19252;39;;Here are the details on this operation.;Voici les d<tails sur cette op<ration.
+11560;19296;100;;Our reclaiming the capital hinges on this.&Concentrate your fire on that dreadnought and destroy it!;Notre r<cup<ration de la capitale d<pend de cela.&Concentrez votre feu sur ce dreadnought et d<truisez le!
+11640;19404;21;;Here are your orders.;Voici vos ordres.
+11720;19432;76;;If capturing the enemy is not feasible, then kill them.&They merit no mercy.;Si capturer l'ennemi n'est pas possible, alors tuez les.&Ils ne m<ritent aucune piti<.
+11800;19516;22;;Okay, here's the plan.;Ok, voici le plan.
+11880;19544;50;;Let's get started.&Just stay calm and get it done!;Commencons. Il suffit de rester calme et de le faire!
+11960;19600;25;;I'll explain the mission.;Je vais vous expliquer la mission.
+12040;19632;49;;Okay, let's begin.&It's up to us to defend Bruhl!;Ok, nous allons commencer.&C'est = nous de d<fendre Bruhl!
+12120;19688;36;;Here's the brief for this operation.;Voici le plan pour cette op<ration.
+12200;19732;52;;All right, let's begin.&We've got to stop them here!;Tr>s bien, nous allons commencer.&Nous devons les arr$ter ici!
+12280;19792;74;;Alicia, here's a map of the area.&It looks like they've got us surrounded.;Alicia, voici une carte de la r<gion.&On dirait qu'ils nous ont encercl<s.
+12360;19872;91;;All right, ready to start moving?&Let's sneak out of their perimeter without being spotted.;Tr>s bien, pr$te = bouger?&Faufilons nous hors de leur p<rim>tre sans $tre rep<r<.
+12440;19968;102;;The gunshots from before came from around here.&The rest of the squad may still be in combat close by.;Les coups de feu provenaient des alentours ici.&Le reste de l'<quipe combat peut-$tre encore = proximit<.
+12520;20076;69;;First, we've got to meet back up with the squad.&Ready to go, Alicia?;Premi>rement, nous devons rejoindre l'escouade.&Pr$te = partir, Alicia?
+12600;20152;27;;Here are your final orders.;Voici vos ordres d<finitifs.
+12680;20184;82;;All right, we're all set to begin.&Let's take Gallia back with our own hands, 7's!;Tr>s bien, nous sommes tous pr$t = commencer.&Reprenons Gallia de nos propres mains, 7s!
+12760;20272;12;;Gallian Camp;Camp Gallien
+12840;20292;17;;Gallian Base Camp;Camp de Base Gallien
+12920;20316;13;;Imperial Camp;Camp Imp<rial
+13000;20336;18;;Imperial Base Camp;Camp de Base Imp<rial
+13080;20360;57;;Enemy mortar has assumed firing position. Clear the area.;Mortier ennemi a pris une position de tir. D<gagez la zone.
+13160;20424;59;;Enemy tank has readied an incendiary round. Clear the area.;Char ennemi a pr<par< un obus incendiaire. D<gagez la zone.
+13240;20488;55;;Enemy long-range mortar is set to fire. Clear the area.;Mortier longue port<e ennemi va tirer. D<gagez la zone.
+13320;20548;55;;Enemy long-range mortar is set to fire. Clear the area.;Mortier longue port<e ennemi va tirer. D<gagez la zone.
+13400;20608;49;;Enemy dreadnought is set to fire. Clear the area.;Dreadnought ennemi va tirer. D<gagez la zone.
+13480;20664;42;;Rockslide imminent. Please clear the area.;Glissement de terrain imminent. Svp d<gagez la zone.
+13560;20712;52;;Incoming enemy rocket impact. Please clear the area.;Impact de roquette ennemie en approche. Svp d<gagez la zone.
+13640;20772;2;;\;\
+13720;20780;42;;Unit has retreated back into the reserves.;L'unit< est retourn<e en r<serves.
+13800;20828;14;;Tank Commander;Commandant de Char
+13880;20848;12;;Retry Battle;R<essayez bataille
+13960;20868;8;;Briefing;Briefing
+14040;20884;4;;Load;Chargez
+14120;20896;12;;Title Screen;Ecran Titre
+14200;20916;44;;Retry the current battle from the beginning.;Relancez la bataille depuis le d<but.
+14280;20968;54;;Retry the current battle from the unit position phase.;Relancez la bataille du positionnement des unit<s.
+14360;21028;36;;Load Save Data from a previous save.;Charger les donn<es d'une sauvegarde pr<c<dente.
+14440;21072;58;;Return to the Title Screen. Unsaved progress will be lost!;Retour = l'Ecran Titre. Progr>s non sauv<s seront perdus!
+14520;21136;44;;Retry the current battle&from the beginning?;Relancez la bataille depuis le d<but?
+14600;21188;54;;Retry the current battle from&the unit position phase?;Relancez la bataille actuelle&du positionnement des unit<s.
+14680;21248;16;;Load saved data?;Charger des donn<es sauvegard<es?
+14760;21272;86;;If you return to the Title Screen,&any unsaved progress will be lost.&Continue anyway?;Si vous revenez = l'<cran titre, tout&progr>s non enregistr< sera perdu.&Continuer quand m$me?
+14840;21364;36;;Issue an order Selvaria has learned.;Emmettre un ordre que Selvaria a appris.
+14920;21408;15;;Issue an order.;Emmettre un ordre

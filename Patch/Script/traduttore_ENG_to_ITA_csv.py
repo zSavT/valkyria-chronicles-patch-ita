@@ -49,12 +49,14 @@ def mostra_caricamento():
     sys.stdout.write('\r')
 
 def traduci_csv(file_input, file_output):
+    c_scrittura = 5
+    c_lettura = 4
+
     print(f"Traduzione del file: {file_input}")
 
     global stop_loading
     stop_loading = False
 
-    # Avvia il thread di caricamento
     thread_caricamento = threading.Thread(target=mostra_caricamento)
     thread_caricamento.start()
 
@@ -68,12 +70,12 @@ def traduci_csv(file_input, file_output):
             writer = csv.writer(outfile, delimiter=';')
 
             for row in reader:
-                if len(row) > 4 and row[4]:  # Assicurati che ci sia una frase in inglese
-                    if isinstance(row[4], str):
-                        translated_text = process_string(row[4], translator)
+                if len(row) > 4 and row[c_lettura]:
+                    if isinstance(row[c_lettura], str):
+                        translated_text = process_string(row[c_lettura], translator)
                         translated_text = translated_text.replace("é", "<").replace("è", ">").replace("à", "=").replace("ì", "i").replace(
                             "ò", "o'").replace("ù", "u'").replace("Ì", "I'").replace("È", "E'")
-                    row[5] = translated_text  # Sovrascrive parte francese della traduzione con quella italiana
+                    row[c_scrittura] = translated_text  # Sovrascrive parte francese della traduzione con quella italiana
                 writer.writerow(row)
     
     except UnicodeDecodeError:

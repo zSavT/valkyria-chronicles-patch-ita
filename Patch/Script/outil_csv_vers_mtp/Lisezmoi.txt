@@ -1,0 +1,20 @@
+il faut que le fichier du jeu et son csv soit present dans le repertoire
+dans mtp_write.ini il faut mettre le nom du fichier sans son extension
+le fichier généré aura un _new.mtp à la fin
+
+exemple : 
+dans le repertoire il me faut :
+- mtpa_adv_00.mtp fichier du jeu
+- mtpa_adv_00.csv fichier de traduction
+
+j'indique mtpa_adv_00 dans mtp_write.ini
+je lance l'executable
+
+j'obtiens normalement, en qq secondes, mtpa_adv_00_new.mtp, fichier a remettre dans le repertoire du jeu sous le nom d'origine mtpa_adv_00.mtp
+
+
+Attention : il y a des caracteres qui passe mal avec le systeme utilisé 
+le fichier généré doit être ouvert dans un editeur hexa et une recherche du caractere £ doit être faite.
+" £ " sera a remplacer par " " " la plupart du temps  mais parfois aussi le " & " de R&D (si y a R£D faut mettre R&D)  et eventuellement du code hexa qui passait mal (mais je crois l'avoir éliminé ce cas)
+
+Pas mal de fichier n'ont pas de £ mais certains (comme mtpa_book.mtp) en ont pas mal (plus de 100 dans le cas de book.mtp)

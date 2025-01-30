@@ -1,0 +1,33 @@
+Contrairement à l'outil pour les mtp le mxe est moins aboutit, il reste 
+3 étapes à faire dans un editeur hexa apres son utilisation
+
+- enlever le texte anglais, c'est à dire tout ce qui se trouve entre le texte ajouté et
+le POFO qui indique la fin du texte  (on peut s'aider du fichier .csv pour voir la 
+derniere ligne de ce qu'il sera ajoutée, ou du contenu anglais juste avant le POFO)
+vmap_304  pour game_info_field par exemple  (l'autre c'est plus difficile)
+
+- ce POFO doit obligatoirement être sur une adresse hexa qui finie par 0 
+(en pratique à gauche dans mon editeur hexa) 
+pour cela il faut ajouter ou enlever des 00 juste avant sa position
+
+- finalement il reste a renseigner 3 adresses au debut du fichier
+l'adresse du POFO - 4 lignes 
+l'adresse des 2 EOFC de fin de fichier - 2 lignes
+
+adresse POFO - 40hexa -> en adresse 34
+adresse EOFC juste avant fin fichier - 20 hexa -> en adresse 4 du fichier
+adresse EOFC 2 lignes avant l'autre - 20hexa -> en adresse 24 du fichier
+
+l'adresse est indiquée en sens inverse de la lecture EOFC-20 en 04 C7 A0 -> faut mettre A0 C7 04
+
+
+
+j'ai mis une video de la manip (codec x264 -> vlc ou mpc classic lit sans probleme) ce sera peut etre plus parlant
+
+
+les lignes avec des caracteres "  " ne sont pas supporter , je les ai supprimé avant utilisation de cet outil 
+cela ne gene pas le jeu a priori je l'ai fini depuis (mais cela reste un doute même si leur utilisté parait limité)
+(voir les differences (à la fin du fihcier) entre le fichier traduit game_info_field.csv et le fichier brute extraction game_info_field_extraction.csv si ce n'est pas clair) 
+
+attention aux " " " qui peuvent poser probleme à l'outil (si necessaire les remplacer par £ dans le csv (par exemple) puis apres conversion en mxe faire une recherche de £ dans l'editeur hexa pour les remettre en ")
+

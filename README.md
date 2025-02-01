@@ -29,11 +29,13 @@ Nella cartella "_Valkyria Chronicles\data\resource\mtpa_" sono presenti la maggi
     - Limite massimo di caratteri: ?
     - Carattere a capo: &
 
+ Nella cartella "_Valkyria Chronicles\data\mx_" sono presenti tutti i file mxe che contengono tutto il testo restante (Impostazioni, nomi oggetti ecc...)
+
 ## TO DO
 
-- [x] Comprendere il funzionamento e logica dietro i file mtpa
+- [ ] Comprendere il funzionamento e logica dietro i file mtpa
 - [ ] Comprendere il funzionamento e logica dietro i file mxe
-- [x] Comprendere il funzionamento e logica dietro i file htx [repo utile](https://github.com/Tes4Oblivion/htx---dds)
+- [ ] Comprendere il funzionamento e logica dietro i file htx [repo utile dell'utente Tes4Oblivion](https://github.com/Tes4Oblivion/htx---dds)
 - [ ] Comprendere il funzionamento e logica dietro i file esr
 - [ ] Tradurre e adattare tutti i testi mpta
 - [ ] Tradurre e adattare tutti i testi mxe
@@ -50,4 +52,4 @@ Nella cartella "_Valkyria Chronicles\data\resource\mtpa_" sono presenti la maggi
 
 ## CREDITI
 
-Si ringrazia tutto lo studio che l'utente "__Feunoir__" per l'analisi postata [qui](https://www.jeuxvideo.com/forums/42-14107-38261510-1-0-1-0-traduction-du-jeu-aide-bienvenue.htm), per i csv di partenza per la traduzione e per i software di conversione da csv a mtpa e mxe.
+Si ringrazia per tutto lo sfrozo di analisi dell'utente "__Feunoir__" postato [qui](https://www.jeuxvideo.com/forums/42-14107-38261510-1-0-1-0-traduction-du-jeu-aide-bienvenue.htm), per i csv di partenza per la traduzione e per i software di conversione da csv a mtpa e mxe.

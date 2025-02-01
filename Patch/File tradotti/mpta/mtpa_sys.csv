@@ -1,23 +1,23 @@
-1236;23316;4;; Yes;SI'
-1316;23328;4;;  No;NO
+1236;23316;4;; Yes; SI'
+1316;23328;4;;  No; NO
 1396;23340;26;;The disc has been removed.;Il disco > stato rimosso.
 1476;23372;23;;Squad 7 Member Register;Registro dei membri della squadra 7
 1556;23400;6;;Living;Vita
 1636;23412;8;;Deceased;Deceduto
-1716;23428;1;; ;
+1716;23428;1;;;
 1796;23436;0;;Set the up/down camera controls used in combat.&Normal:   Up - Look up     Down - Look down&Reversed: Up - Look down   Down - Look up;Imposta i controlli della telecamera su/giu' utilizzati in combattimento.&Normale: Su - Guarda in alto Giu' - Guarda in basso&Invertito: Su - Guarda in basso Giu' - Guarda in alto
 1876;23576;0;;Set the left/right camera controls used in combat.&Normal:   Left - Look left    Right - Look right&Reversed: Left - Look right   Right - Look left;Imposta i controlli della telecamera sinistra/destra utilizzati in combattimento.&Normale: Sinistra - Guarda a sinistra Destra - Guarda a destra&Invertito: Sinistra - Guarda a destra Destra - Guarda a sinistra
 1956;23728;0;;Set the up/down targeting controls used in combat.&Normal:   Up - Aim up     Down - Aim down&Reversed: Up - Aim down   Down - Aim up;Imposta i controlli di puntamento su/giu' utilizzati in combattimento.&Normale: Su - Mira in alto Giu' - Mira in basso&Invertito: Su - Mira in basso Giu' - Mira in alto
 2036;23868;0;;Set the left/right targeting controls used in combat.&Normal:   Left - Aim left    Right - Aim right&Reversed: Left - Aim right   Right - Aim left;Imposta i controlli di puntamento sinistro/destro utilizzati in combattimento.&Normale: Sinistra - Mira a sinistra Destra - Mira a destra&Invertito: Sinistra - Mira a destra Destra - Mira a sinistra
 2116;24020;0;;Set the view mode used during the enemy's phase.&Short: Watch no actions in full view&Normal: Watch some actions   Full: Watch all actionsX;Imposta la modalit= di visualizzazione utilizzata durante la fase nemica.&Breve: non guardare nessuna azione in piena vista&Normale: Guarda alcune azioni Completo: Guarda tutte le azioniX
-2196;24164;88;;Turn on/off subtitles during movie sequences.&On: Display subtitles  Off: Hide subtitles;Attiva/disattiva i sottotitoli durante le sequenze dei film.&On: Visualizza sottotitoli Off: Nascondi sottotitoli
-2276;24260;92;;Select voice language.&Voice language can only be changed via&£OPTIONS£ on the Title Screen.;Seleziona la lingua della voce.&La lingua vocale puo' essere modificata solo tramite&£OPZIONI£ nella schermata del titolo.
+2196;24164;88;;Turn on/off subtitles during movie sequences.&On: Display subtitles  Off: Hide subtitles;Attiva/disattiva i sottotitoli durante le sequenze dei film-&On: Visualizza i sottotitoli Off: Nascondi i sottotitoli
+2276;24260;92;;Select voice language.&Voice language can only be changed via&ï¿½OPTIONSï¿½ on the Title Screen.;Seleziona la lingua della voce.&La lingua vocale puo' essere modificata solo tramite&ï¿½OPZIONIï¿½ nella schermata del titolo.
 2356;24360;91;;Set the volume for background music.&(Volume levels for movie sequences cannot be changed.);Imposta il volume della musica di sottofondo.&(Non > possibile modificare i livelli del volume per le sequenze dei film.)
-2436;24456;88;;Set the volume for sound effects.&(Volume levels for movie sequences cannot be changed.);Imposta il volume degli effetti sonori.&(Non > possibile modificare i livelli del volume per le sequenze dei film.)
-2516;24552;91;;Display a color bar to help calibrate your television&to an appropriate brightness setting.;Visualizza una barra colorata per aiutarti a calibrare il tuo televisore&su un'impostazione di luminosit= appropriata.
-2596;24648;45;;Restore all settings to their default values.;Ripristinare tutti i valori predefiniti delle impostazioni.
-2676;24700;53;;Save changes to game settings&and return to the game.;Salva le modifiche alle impostazioni del gioco&e tornare al gioco.
-2756;24760;45;;Restore all settings to their&default values?;Ripristina tutte le impostazioni al loro stato originale&valori predefiniti?
+2436;24456;88;;Set the volume for sound effects.&(Volume levels for movie sequences cannot be changed.);Imposta il volume per gli effetti sonori. (Non > possibile&modificare i livelli del volume per le sequenze dei film.)
+2516;24552;91;;Display a color bar to help calibrate your television&to an appropriate brightness setting.;Visualizza una barra colorata per aiutarti a calibrare il&televisore su un'impostazione di luminosit= appropriata.
+2596;24648;45;;Restore all settings to their default values.;Ripristina tutte le impostazioni ai loro valori&predefiniti.
+2676;24700;53;;Save changes to game settings&and return to the game.;Salva le modifiche alle impostazioni di gioco e torna al&gioco.
+2756;24760;45;;Restore all settings to their&default values?;Ripristinare tutte le impostazioni ai valori predefiniti?
 2836;24812;39;;Discard changes and return to the game?;Ignorare le modifiche e tornare al gioco?
 2916;24856;124;;This game saves data automatically at certain points.&Do not switch off the power when the HDD access indicator is flashing.;Questo gioco salva automaticamente i dati in determinati punti.&Non spegnere l'alimentazione quando l'indicatore di accesso all'HDD lampeggia.
 2996;24988;112;;There is not enough free space on the hard disk drive.&At least 5MB of free space is required to play this game.;Non c'> abbastanza spazio libero sul disco rigido.&Per giocare a questo gioco sono necessari almeno 5 MB di spazio libero.
@@ -27,7 +27,7 @@
 3316;25444;18;;Now auto-saving...;Ora salvataggio automatico...
 3396;25468;33;;Please delete unneeded save data.;Si prega di eliminare i dati di salvataggio non necessari.
 3476;25508;12;;Load failed.;Caricamento non riuscito.
-3556;25528;74;;Valkyria Chronicles play data is corrupted.&Delete the corrupted file now?;I dati di gioco di Valkyria Chronicles sono danneggiati.&Eliminare subito il file danneggiato?
+3556;25528;74;;Valkyria Chronicles play data is corrupted.&Delete the corrupted file now?;I dati di gioco di Valkyria Chronicles sono danneggiati.&Vuoi eliminare subito il file danneggiato?
 3636;25608;0;;Creating save data to save your&completed game. By loading this save&data. You can carry over what you've&earned to a new game and play through&the game again.;Creazione di dati di salvataggio per salvare il tuo&gioco completato. Caricando questo salvataggio&dati. Puoi riportare cio' che hai&guadagnato per un nuovo gioco e gioca attraverso&di nuovo la partita.
 3716;25772;13;;New Save Data;Nuovo salvataggio dati
 3796;25792;19;;Valkyria Chronicles;Cronache di Valkyria
@@ -37,8 +37,8 @@
 4116;25872;9;;Book Mode;Modalit= libro
 4196;25888;12;;Command Mode;Modalit= di comando
 4276;25908;4;;hrs.;ore.
-4356;25920;4;;min.;minimo
-4436;25932;4;;sec.;secondo
+4356;25920;4;;min.;minuti
+4436;25932;4;;sec.;secondi
 4516;25944;19;;Game settings data.;Dati delle impostazioni di gioco.
 4596;25968;0;;;
 4676;25976;0;;;
@@ -173,7 +173,7 @@
 14996;28720;123;;Installation cancelled.&Please exit the game and delete the incomplete game data.&Game data can be reinstalled at any time.;Installazione annullata.&Esci dal gioco ed elimina i dati di gioco incompleti.&I dati di gioco possono essere reinstallati in qualsiasi momento.
 15076;28848;22;;Installation complete.;Installazione completata.
 15156;28876;118;;The game data is corrupted.&Please exit the game and delete the corrupted data.&Now reading data from the game disc...;I dati del gioco sono danneggiati.&Esci dal gioco ed elimina i dati danneggiati.&Ora sto leggendo i dati dal disco del gioco...
-15236;29000;78;;Installation failed.&Please exit the game and delete the incomplete game data.;Installazione fallita.&Esci dal gioco ed elimina i dati di gioco incompleti.
+15236;29000;78;;Installation failed.&Please exit the game and delete the incomplete game data.;Installazione fallita. Esci dal gioco ed elimina i dati di&gioco incompleti.
 15316;29084;0;;;
 15396;29092;0;;;
 15476;29100;0;;;
@@ -234,8 +234,8 @@
 19876;29540;1;;7;7
 19956;29548;1;;8;8
 20036;29556;1;;9;9
-20116;29564;1;; ;
-20196;29572;2;;££;££
+20116;29564;1;;;
+20196;29572;2;;ï¿½ï¿½;ï¿½ï¿½
 20276;29580;1;;/;/
 20356;29588;18;;Encounter at Bruhl;Incontro a Bruhl
 20436;29612;16;;Defense of Bruhl;Difesa di Bruhl

@@ -17,11 +17,11 @@ Allo stato attuale i caratteri supportati sono:
 ```
 Il resto viene modificato con l'aggiunta di " _'_ ".
 
-## LUNGHEZZA MASSIMA
+## LUNGHEZZA MASSIMA - ESEMPIO CON FILE MTPA_ADV_XX
 
-Da cosa ho potuto comprendere il carattere "_&_", ha la stessa funzione del "_\n_". Il carattere per andare a capo, deve essere inserito prima dei 60 caratteri, in caso contrario, la visualizzazione del testo in gioco risulterà errata. Per questo il codice per le stringhe sotto i 120 caratteri (le stringhe che superano i 120 caratteri sono ancora da analizzare), tokenizza la stringa, elimina l'ultima parola dalla prima parte, inserisce il simbolo "&" ed inserisci all'inizio della seconda parte, la parola scartata. In ogni caso, tutti i testi rimangono da rivisionare.
+Da cosa ho potuto comprendere il carattere "_&_", ha la stessa funzione del "_\n_". Il carattere per andare a capo, deve essere inserito prima dei 60 caratteri, in caso contrario, la visualizzazione del testo in gioco risulterà errata. Per questo il codice per le stringhe sotto i 120 caratteri (le stringhe che superano i 120 caratteri devono necessariamente essere riassunte\accorciate, ci sono anche dei casi anomali ancora da analizzare), tokenizza la stringa, elimina l'ultima parola dalla prima parte, inserisce il simbolo "&" ed inserisci all'inizio della seconda parte, la parola scartata. In alcuni casi invece, se la seconda parte della stringa supera i 60 caratteri, si, preferisce inserire un semplice "-&" per dividere le stringhe di testo.<br>In ogni caso, tutti i testi rimangono da rivisionare.
 
 
 ### NOTE
 
-Il codice è stato scritto inizialmente a mano, successivamente espanso con ChatGPT, rimodificato completamente a mano e così via...
+Il codice è stato scritto inizialmente a mano, successivamente espanso con ChatGPT e poi modificato continuamente così via...

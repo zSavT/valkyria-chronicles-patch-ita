@@ -2,10 +2,28 @@
 
 Progetto per la traduzione del gioco Valkyria Chronicles in italiano.
 
-__README DA TERMINARE__
+## STRUTTURA DEI FILE - DA TERMINARE
 
+Nella cartella "_Valkyria Chronicles\data\resource\mtpa_" sono presenti la maggior parte dei testi delle cinematiche, dei dialoghi in battaglia e del menu\libro. In particolare:
 
-## STRUTTURA DEI FILE
+- __mtpa_adv_XX__, contiene i dialoghi presenti nelle cinematiche.
+    - Limite massimo di caratteri: 120 (60 per riga)
+    - Carattere a capo: &
+- __mtpa_slg_XX__, contiene i dialoghi dei box presenti nelle battaglie.
+    - Limite massimo di caratteri: 42/43
+    - Carattere a capo: & (genera anche nuovi box di testo per inserire il testo mancante)
+- __mtpa_sys__, contiene testi vari per alcune opzioni del gioco e capitoli.
+    - Limite massimo di caratteri: ?
+    - Carattere a capo: &
+- __mtpa_sys_battle__, contiene testi vari per testi generici delle battaglie.
+    - Limite massimo di caratteri: ?
+    - Carattere a capo: &
+- __mtpa_book__, contiene testi del menu libro dei capitoli.
+    - Limite massimo di caratteri: ?
+    - Carattere a capo: &
+- __mtpa_town__, contiene testi vari, tra cui quelli dei box nel libro.
+    - Limite massimo di caratteri: ?
+    - Carattere a capo: &
 
 ## TO DO
 

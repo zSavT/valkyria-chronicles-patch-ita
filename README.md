@@ -1,5 +1,5 @@
-# Valkyria Chronicles Patch ITA
-
+# Valkyria Chronicles Patch ITA 
+![Logo](img\logo.png)
 Progetto per la traduzione del gioco Valkyria Chronicles in italiano.
 
 ## STRUTTURA DEI FILE - DA TERMINARE
@@ -36,6 +36,13 @@ Nella cartella "_Valkyria Chronicles\data\resource\mtpa_" sono presenti la maggi
 - [ ] Tradurre e adattare tutti i testi esr
 - [ ] Rifinire
 - [ ] Test completo del gioco
+
+
+## SCREEN PROGETTO
+
+![](img\1.jpg)
+![](img\2.jpg)
+![](img\3.jpg)
 
 ## CREDITI
 

@@ -33,24 +33,38 @@ def process_string(s, translator):
     substrings = split_string(s)
     tradotto_temp = translator.translate(s)
 
-    if tradotto_temp is not None and len(tradotto_temp) <= 120:
+    # Aggiungendo & la stringa diventa di 120 caratteri, il massimo supportato
+    if tradotto_temp is not None and len(tradotto_temp) == 119:
+        if len(tradotto_temp) > 59:
+            part1 = tradotto_temp[:59]
+            part2 = tradotto_temp[59:60]
+            part3 = tradotto_temp[60:]
+            out = part1 + '&' + part2 + part3
+    # Caso classico
+    elif tradotto_temp is not None and len(tradotto_temp) < 119:
         if len(tradotto_temp) > 59:
             tokens = tradotto_temp[:59].rsplit(" ", 1)
             if len(tokens) > 1:
                 part1, last_token = tokens
                 part2 = last_token + "" + tradotto_temp[59:]
+                if len(part2) > 60 and len(tradotto_temp) <= 118:
+                    out = tradotto_temp[:59] + "-&" + tradotto_temp[60:]
+                else:
+                    out = part1 + '&' + part2
             else:
                 part1 = tokens[0]
                 part2 = tradotto_temp[59:]
-            out = part1 + '&' + part2
+                out = part1 + '&' + part2
         else:
             out = tradotto_temp
-    else:
+    elif tradotto_temp is not None and len(tradotto_temp) > 119: # Caso particolare, il testo bisognerebbe accorciarlo manualmente per farlo rientrare nei 120 caratteri
         modified_substrings = [modify_substring(sub, translator) for sub in substrings]
         if modified_substrings[0] is None:
             out = s
         else:
             out = '&'.join(modified_substrings)  # Ricombina le sottostringhe
+    else:
+        out = s
 
     print(f"\n{YELLOW}ENG: {s} {RESET}")
     print(f"{GREEN}ITA: {out} {RESET}")

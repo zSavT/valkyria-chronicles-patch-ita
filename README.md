@@ -29,13 +29,15 @@ Nella cartella "_Valkyria Chronicles\data\resource\mtpa_" sono presenti la maggi
     - Limite massimo di caratteri: ?
     - Carattere a capo: &
 
- Nella cartella "_Valkyria Chronicles\data\mx_" sono presenti tutti i file mxe che contengono tutto il testo restante (Impostazioni, nomi oggetti ecc...)
+ Nella cartella "_Valkyria Chronicles\data\mx_" sono presenti tutti i file mxe che contengono tutto il testo restante (Impostazioni, nomi oggetti ecc...)<br>
+
+ I file "_htx_" contengono le texture del gioco, dove sono presenti anche le gui del gioco e alcuni testi (come per esempio il messaggio di ending del gioco). Anche i file "_mlx_" contengono le texture per gli ambienti, personaggi ecc... non utili per la patch.
 
 ## TO DO
 
 - [ ] Comprendere il funzionamento e logica dietro i file mtpa
 - [ ] Comprendere il funzionamento e logica dietro i file mxe
-- [ ] Comprendere il funzionamento e logica dietro i file htx [repo utile dell'utente Tes4Oblivion](https://github.com/Tes4Oblivion/htx---dds)
+- [x] Comprendere il funzionamento e logica dietro i file htx
 - [ ] Comprendere il funzionamento e logica dietro i file esr
 - [ ] Tradurre e adattare tutti i testi mpta
 - [ ] Tradurre e adattare tutti i testi mxe
@@ -53,3 +55,4 @@ Nella cartella "_Valkyria Chronicles\data\resource\mtpa_" sono presenti la maggi
 ## CREDITI
 
 Si ringrazia per tutto lo sfrozo di analisi dell'utente "__Feunoir__" postato [qui](https://www.jeuxvideo.com/forums/42-14107-38261510-1-0-1-0-traduction-du-jeu-aide-bienvenue.htm), per i csv di partenza per la traduzione e per i software di conversione da csv a mtpa e mxe.
+Si ringrazia l'utente steam "__FluffyQuack__" per il tool di estrazione delle texture per i file htx e mlx [tool](https://steamcommunity.com/sharedfiles/filedetails/?id=343016567).

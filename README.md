@@ -33,9 +33,6 @@ Nella cartella "_Valkyria Chronicles\data\resource\mtpa_" sono presenti la maggi
 I file "_htx_" contengono le texture del gioco, dove sono presenti anche le gui del gioco e alcuni testi (come per esempio il messaggio di ending del gioco). Anche i file "_mlx_" contengono le texture per gli ambienti, personaggi ecc... non utili per la patch.<br>
 Nella cartella "_Valkyria Chronicles\data\texture_replace_" sono presenti texture varie tra cui alcune contenente il testo di alcune interfacce di menu, i file sono delle immagini nel formato "_dds_".
 
-## VIDEO DIMOSTRATIVO
-[![Video dimostrativo versione pre-alpha](https://img.youtube.com/vi/MNjeAes6j74/0.jpg)](https://youtu.be/MNjeAes6j74?si=MNjeAes6j74)
-
 ## TO DO
 
 - [ ] Comprendere il funzionamento e logica dietro i file mtpa
@@ -47,6 +44,9 @@ Nella cartella "_Valkyria Chronicles\data\texture_replace_" sono presenti textur
 - [ ] Tradurre e adattare tutti i testi esr
 - [ ] Rifinire
 - [ ] Test completo del gioco
+
+## VIDEO DIMOSTRATIVO
+[![Video dimostrativo versione pre-alpha](https://img.youtube.com/vi/MNjeAes6j74/0.jpg)](https://youtu.be/MNjeAes6j74?si=MNjeAes6j74)
 
 
 ## SCREEN PROGETTO

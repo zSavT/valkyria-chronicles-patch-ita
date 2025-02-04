@@ -1,0 +1,510 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<text>
+  <text_item text_id="text_id">
+    <default_text>*english</default_text>
+    <english>english</english>
+    <french>french</french>
+    <italian>italian</italian>
+    <german>german</german>
+    <spanish>spanish</spanish>
+    <japanese>japanese</japanese>
+  </text_item>
+  <text_item text_id="app_id">
+    <default_text>*Valkyria Chonicles Launcher</default_text>
+    <english>Valkyria Chonicles Launcher</english>
+    <french>Valkyria Chonicles Launcher</french>
+    <italian>Valkyria Chonicles Launcher</italian>
+    <german>Valkyria Chonicles Launcher</german>
+    <spanish>Valkyria Chonicles Launcher</spanish>
+    <japanese>Valkyria Chonicles Launcher</japanese>
+  </text_item>
+  <text_item text_id="graphics">
+    <default_text>*Graphics</default_text>
+    <english>grafica</english>
+    <french>*graphics</french>
+    <italian>*grafica</italian>
+    <german>*graphics</german>
+    <spanish>*graphics</spanish>
+    <japanese>*graphics</japanese>
+  </text_item>
+  <text_item text_id="audio">
+    <default_text>*Audio</default_text>
+    <english>Audio</english>
+    <french>*audio</french>
+    <italian>*audio</italian>
+    <german>*audio</german>
+    <spanish>*audio</spanish>
+    <japanese>*audio</japanese>
+  </text_item>
+  <text_item text_id="input">
+    <default_text>*Input</default_text>
+    <english>Input</english>
+    <french>*input</french>
+    <italian>*input</italian>
+    <german>*input</german>
+    <spanish>*input</spanish>
+    <japanese>*input</japanese>
+  </text_item>
+  <text_item text_id="play">
+    <default_text>*Play</default_text>
+    <english>Play</english>
+    <french>*play</french>
+    <italian>*play</italian>
+    <german>*play</german>
+    <spanish>*play</spanish>
+    <japanese>*play</japanese>
+  </text_item>
+  <text_item text_id="quit">
+    <default_text>*Quit</default_text>
+    <english>Esci</english>
+    <french>*quit</french>
+    <italian>*Esci</italian>
+    <german>*quit</german>
+    <spanish>*quit</spanish>
+    <japanese>*quit</japanese>
+  </text_item>
+  <text_item text_id="graphics_adapter">
+    <default_text>*Graphics Adapter</default_text>
+    <english>Scheda Grafica</english>
+    <french>*graphics_adapter</french>
+    <italian>*Scheda Grafica</italian>
+    <german>*graphics_adapter</german>
+    <spanish>*graphics_adapter</spanish>
+    <japanese>*graphics_adapter</japanese>
+  </text_item>
+  <text_item text_id="resolution">
+    <default_text>*Resolution</default_text>
+    <english>Risoluzione</english>
+    <french>*resolution</french>
+    <italian>*risoluzione</italian>
+    <german>*resolution</german>
+    <spanish>*resolution</spanish>
+    <japanese>*resolution</japanese>
+  </text_item>
+  <text_item text_id="vsync">
+    <default_text>*V-Sync</default_text>
+    <english>V-Sync</english>
+    <french>*vsync</french>
+    <italian>*vsync</italian>
+    <german>*vsync</german>
+    <spanish>*vsync</spanish>
+    <japanese>*vsync</japanese>
+  </text_item>
+  <text_item text_id="fxaa">
+    <default_text>*FXAA</default_text>
+    <english>FXAA</english>
+    <french>FXAA</french>
+    <italian>FXAA</italian>
+    <german>FXAA</german>
+    <spanish>FXAA</spanish>
+    <japanese>FXAA</japanese>
+  </text_item>
+  <text_item text_id="off">
+    <default_text>*Off</default_text>
+    <english>Disattivo</english>
+    <french>*off</french>
+    <italian>*off</italian>
+    <german>*off</german>
+    <spanish>*off</spanish>
+    <japanese>*off</japanese>
+  </text_item>
+  <text_item text_id="on">
+    <default_text>*On</default_text>
+    <english>Attivo</english>
+    <french>*on</french>
+    <italian>*on</italian>
+    <german>*on</german>
+    <spanish>*on</spanish>
+    <japanese>*on</japanese>
+  </text_item>
+  <text_item text_id="input_device">
+    <default_text>*Input Device</default_text>
+    <english>Dispositivi di input</english>
+    <french>*input_device</french>
+    <italian>*dispositivi di input</italian>
+    <german>*input_device</german>
+    <spanish>*input_device</spanish>
+    <japanese>*input_device</japanese>
+  </text_item>
+  <text_item text_id="default">
+    <default_text>*Default</default_text>
+    <english>Default</english>
+    <french>*default</french>
+    <italian>*default</italian>
+    <german>*default</german>
+    <spanish>*default</spanish>
+    <japanese>*default</japanese>
+  </text_item>
+  <text_item text_id="none">
+    <default_text>*None</default_text>
+    <english>Niente</english>
+    <french>*none</french>
+    <italian>*niente</italian>
+    <german>*none</german>
+    <spanish>*none</spanish>
+    <japanese>*none</japanese>
+  </text_item>
+  <text_item text_id="keyboard">
+    <default_text>*Keyboard</default_text>
+    <english>Tastiera</english>
+    <french>*keyboard</french>
+    <italian>*Tastiera</italian>
+    <german>*keyboard</german>
+    <spanish>*keyboard</spanish>
+    <japanese>*keyboard</japanese>
+  </text_item>
+  <text_item text_id="keyboard_mouse">
+    <default_text>*Keyboard &amp; Mouse</default_text>
+    <english>Tastiera &amp; Mouse</english>
+    <french>*keyboard_mouse</french>
+    <italian>*Tastiera_mouse</italian>
+    <german>*keyboard_mouse</german>
+    <spanish>*keyboard_mouse</spanish>
+    <japanese>*keyboard_mouse</japanese>
+  </text_item>
+  <text_item text_id="valid_input">
+    <default_text>*Please enter a valid Input</default_text>
+    <english>Per favore inserisci un input valido</english>
+    <french>*valid_input</french>
+    <italian>*valid_input</italian>
+    <german>*valid_input</german>
+    <spanish>*valid_input</spanish>
+    <japanese>*valid_input</japanese>
+  </text_item>
+  <text_item text_id="l_up_button">
+    <default_text>*Move Character/Reticle Up</default_text>
+    <english>Sposta il personaggio/Reticolo verso l'alto</english>
+    <french>*l_up_button</french>
+    <italian>*l_up_button</italian>
+    <german>*l_up_button</german>
+    <spanish>*l_up_button</spanish>
+    <japanese>*l_up_button</japanese>
+  </text_item>
+  <text_item text_id="l_down_button">
+    <default_text>*Move Character/Reticle Down</default_text>
+    <english>Sposta il personaggio/Reticolo verso il basso</english>
+    <french>*l_down_button</french>
+    <italian>*l_down_button</italian>
+    <german>*l_down_button</german>
+    <spanish>*l_down_button</spanish>
+    <japanese>*l_down_button</japanese>
+  </text_item>
+  <text_item text_id="l_left_button">
+    <default_text>*Move Character/Reticle Left</default_text>
+    <english>Sposta il personaggio/Reticolo verso sinistra</english>
+    <french>*l_left_button</french>
+    <italian>*l_left_button</italian>
+    <german>*l_left_button</german>
+    <spanish>*l_left_button</spanish>
+    <japanese>*l_left_button</japanese>
+  </text_item>
+  <text_item text_id="l_right_button">
+    <default_text>*Move Character/Reticle Right</default_text>
+    <english>Sposta il personaggio/Reticolo verso destra</english>
+    <french>*l_right_button</french>
+    <italian>*l_right_button</italian>
+    <german>*l_right_button</german>
+    <spanish>*l_right_button</spanish>
+    <japanese>*l_right_button</japanese>
+  </text_item>
+  <text_item text_id="b_button">
+    <default_text>*Cancel</default_text>
+    <english>Cancella</english>
+    <french>*b_button</french>
+    <italian>*b_button</italian>
+    <german>*b_button</german>
+    <spanish>*b_button</spanish>
+    <japanese>*b_button</japanese>
+  </text_item>
+  <text_item text_id="a_button">
+    <default_text>*Enter / Terrain Actions / User weapon or item</default_text>
+    <english>Inserisci / Azioni sul terreno / Arma o oggetto dell'utente</english>
+    <french>*a_button</french>
+    <italian>*a_button</italian>
+    <german>*a_button</german>
+    <spanish>*a_button</spanish>
+    <japanese>*a_button</japanese>
+  </text_item>
+  <text_item text_id="x_button">
+    <default_text>*Squad List / Change Weapons</default_text>
+    <english>Elenco Squadre / Cambia Armi</english>
+    <french>*x_button</french>
+    <italian>*x_button</italian>
+    <german>*x_button</german>
+    <spanish>*x_button</spanish>
+    <japanese>*x_button</japanese>
+  </text_item>
+  <text_item text_id="y_button">
+    <default_text>*Display Menu / Detailed Information</default_text>
+    <english>Visualizza Menu / Informazioni dettagliate</english>
+    <french>*y_button</french>
+    <italian>*y_button</italian>
+    <german>*y_button</german>
+    <spanish>*y_button</spanish>
+    <japanese>*y_button</japanese>
+  </text_item>
+  <text_item text_id="l1_button">
+    <default_text>*Mini-Map / Change Lock-on Target</default_text>
+    <english>Mini-Map / Cambia il bersaglio di blocco</english>
+    <french>*l1_button</french>
+    <italian>*l1_button</italian>
+    <german>*l1_button</german>
+    <spanish>*l1_button</spanish>
+    <japanese>*l1_button</japanese>
+  </text_item>
+  <text_item text_id="r1_button">
+    <default_text>*Target Mode / Change Lock-on Target</default_text>
+    <english>Target Mode / Cambia il bersaglio di blocco</english>
+    <french>*r1_button</french>
+    <italian>*r1_button</italian>
+    <german>*r1_button</german>
+    <spanish>*r1_button</spanish>
+    <japanese>*r1_button</japanese>
+  </text_item>
+  <text_item text_id="l2_button">
+    <default_text>*Sneak-in view / Change viewpoints</default_text>
+    <english>Visualizzazione furtiva / Cambia punto di vista</english>
+    <french>*l2_button</french>
+    <italian>*l2_button</italian>
+    <german>*l2_button</german>
+    <spanish>*l2_button</spanish>
+    <japanese>*l2_button</japanese>
+  </text_item>
+  <text_item text_id="r2_button">
+    <default_text>*Sneak-in view / Change viewpoints</default_text>
+    <english>Visualizzazione furtiva / Cambia punto di vista</english>
+    <french>*r2_button</french>
+    <italian>*r2_button</italian>
+    <german>*r2_button</german>
+    <spanish>*r2_button</spanish>
+    <japanese>*r2_button</japanese>
+  </text_item>
+  <text_item text_id="l3_button">
+    <default_text>*Toggle Ragnaid( medical item ) user</default_text>
+    <english>Attiva/disattiva l'utente Ragnaid (articolo medico).</english>
+    <french>*l3_button</french>
+    <italian>*l3_button</italian>
+    <german>*l3_button</german>
+    <spanish>*l3_button</spanish>
+    <japanese>*l3_button</japanese>
+  </text_item>
+  <text_item text_id="r3_button">
+    <default_text>*Reset Camera</default_text>
+    <english>Reset Camera</english>
+    <french>*r3_button</french>
+    <italian>*r3_button</italian>
+    <german>*r3_button</german>
+    <spanish>*r3_button</spanish>
+    <japanese>*r3_button</japanese>
+  </text_item>
+ <text_item text_id="start_button">
+    <default_text>*Display Sight Lines</default_text>
+    <english>Mostra Linee di Vista</english>
+    <french>*start_button</french>
+    <italian>*start_button</italian>
+    <german>*start_button</german>
+    <spanish>*start_button</spanish>
+    <japanese>*start_button</japanese>
+  </text_item>
+  <text_item text_id="audio_adapter">
+    <default_text>*Audio Adapter</default_text>
+    <english>Adattatore Audio</english>
+    <french>*audio_adapter</french>
+    <italian>*audio_adapter</italian>
+    <german>*audio_adapter</german>
+    <spanish>*audio_adapter</spanish>
+    <japanese>*audio_adapter</japanese>
+  </text_item>
+  <text_item text_id="keyobard_primary">
+    <default_text>*Keyboard Primary</default_text>
+    <english>Tastiera Primaria</english>
+    <french>*keyobard_primary</french>
+    <italian>*keyobard_primary</italian>
+    <german>*keyobard_primary</german>
+    <spanish>*keyobard_primary</spanish>
+    <japanese>*keyobard_primary</japanese>
+  </text_item>
+  <text_item text_id="keyboard_secondary">
+    <default_text>*Keyboard Secondary</default_text>
+    <english>Tastiera Secondaria</english>
+    <french>*keyboard_secondary</french>
+    <italian>*keyboard_secondary</italian>
+    <german>*keyboard_secondary</german>
+    <spanish>*keyboard_secondary</spanish>
+    <japanese>*keyboard_secondary</japanese>
+  </text_item>
+  <text_item text_id="keyboard_mouse_primary">
+    <default_text>*Keyboard and Mouse Primary</default_text>
+    <english>Tastiera e Mouse Primari</english>
+    <french>*keyboard_mouse_primary</french>
+    <italian>*keyboard_mouse_primary</italian>
+    <german>*keyboard_mouse_primary</german>
+    <spanish>*keyboard_mouse_primary</spanish>
+    <japanese>*keyboard_mouse_primary</japanese>
+  </text_item>
+  <text_item text_id="keyboard_mouse_secondary">
+    <default_text>*Keyboard and Mouse Secondary</default_text>
+    <english>Tastiera e Mouse Secondari</english>
+    <french>*keyboard_mouse_secondary</french>
+    <italian>*keyboard_mouse_secondary</italian>
+    <german>*keyboard_mouse_secondary</german>
+    <spanish>*keyboard_mouse_secondary</spanish>
+    <japanese>*keyboard_mouse_secondary</japanese>
+  </text_item>
+  <text_item text_id="reset">
+    <default_text>*Reset</default_text>
+    <english>Ripristina</english>
+    <french>*reset</french>
+    <italian>*reset</italian>
+    <german>*reset</german>
+    <spanish>*reset</spanish>
+    <japanese>*reset</japanese>
+  </text_item>
+  <text_item text_id="select_button">
+    <default_text>*</default_text>
+    <english>*select_button</english>
+    <french>*select_button</french>
+    <italian>*select_button</italian>
+    <german>*select_button</german>
+    <spanish>*select_button</spanish>
+    <japanese>*select_button</japanese>
+  </text_item>
+   <text_item text_id="r_up_button">
+    <default_text>*</default_text>
+    <english>Guarda in Alto</english>
+    <french>Look Up</french>
+    <italian>Look Up</italian>
+    <german>Look Up</german>
+    <spanish>Look Up</spanish>
+    <japanese>*r_up_button</japanese>
+  </text_item>
+  <text_item text_id="r_down_button">
+    <default_text>*</default_text>
+    <english>Guarda in Basso</english>
+    <french>Look Down</french>
+    <italian>Look Down</italian>
+    <german>Look Down</german>
+    <spanish>Look Down</spanish>
+    <japanese>*r_down_button</japanese>
+  </text_item>
+  <text_item text_id="r_left_button">
+    <default_text>*</default_text>
+    <english>Guarda a Sinistra</english>
+    <french>Look Left</french>
+    <italian>Look Left</italian>
+    <german>Look Left</german>
+    <spanish>Look Left</spanish>
+    <japanese>*r_left_button</japanese>
+  </text_item>
+  <text_item text_id="r_right_button">
+    <default_text>*</default_text>
+    <english>Guarda a Destra</english>
+    <french>Look Right</french>
+    <italian>Look Right</italian>
+    <german>Look Right</german>
+    <spanish>Look Right</spanish>
+    <japanese>*r_right_button</japanese>
+  </text_item>
+  <text_item text_id="d_up_button">
+    <default_text>*</default_text>
+    <english>Cammina Avanti</english>
+    <french>Walk Forward</french>
+    <italian>Walk Forward</italian>
+    <german>Walk Forward</german>
+    <spanish>Walk Forward</spanish>
+    <japanese>Walk Forward</japanese>
+  </text_item>
+  <text_item text_id="d_down_button">
+    <default_text>*</default_text>
+    <english>Cammina Indietro</english>
+    <french>Walk Down</french>
+    <italian>Walk Down</italian>
+    <german>Walk Down</german>
+    <spanish>Walk Down</spanish>
+    <japanese>Walk Down</japanese>
+  </text_item>
+  <text_item text_id="d_left_button">
+    <default_text>*</default_text>
+    <english>Cammina a sinistra</english>
+    <french>Walk Left</french>
+    <italian>Walk Left</italian>
+    <german>Walk Left</german>
+    <spanish>Walk Left</spanish>
+    <japanese>Walk Left</japanese>
+  </text_item>
+  <text_item text_id="d_right_button">
+    <default_text>*</default_text>
+    <english>Cammina a destra</english>
+    <french>Walk Right</french>
+    <italian>Walk Right</italian>
+    <german>Walk Right</german>
+    <spanish>Walk Right</spanish>
+    <japanese>Walk Right</japanese>
+  </text_item>
+  <text_item text_id="page">
+    <default_text>*Page</default_text>
+    <english>Pagina</english>
+    <french>*page</french>
+    <italian>*page</italian>
+    <german>*page</german>
+    <spanish>*page</spanish>
+    <japanese>*page</japanese>
+  </text_item>
+  <text_item text_id="vibration">
+    <default_text>*Vibration</default_text>
+    <english>Vibrazione</english>
+    <french>*Vibration</french>
+    <italian>*Vibration</italian>
+    <german>*Vibration</german>
+    <spanish>*Vibration</spanish>
+    <japanese>*Vibration</japanese>
+  </text_item>
+  <text_item text_id="frame_limit">
+    <default_text>*Frame Limit</default_text>
+    <english>Limite Frame</english>
+    <french>*Frame Limit</french>
+    <italian>*Frame Limit</italian>
+    <german>*Frame Limit</german>
+    <spanish>*Frame Limit</spanish>
+    <japanese>*Frame Limit</japanese>
+  </text_item>
+  <text_item text_id="sensitivity">
+    <default_text>*Sensitivity</default_text>
+    <english>Sensibiità</english>
+    <french>*Sensitivity</french>
+    <italian>*Sensitivity</italian>
+    <german>*Sensitivity</german>
+    <spanish>*Sensitivity</spanish>
+    <japanese>*Sensitivity</japanese>
+  </text_item>
+  
+  <text_item text_id="windowed">
+    <default_text>*Windowed</default_text>
+    <english>Finestra</english>
+    <french>*Windowed</french>
+    <italian>*Windowed</italian>
+    <german>*Windowed</german>
+    <spanish>*Windowed</spanish>
+    <japanese>*Windowed</japanese>
+  </text_item>
+  
+  <text_item text_id="display">
+    <default_text>*Display</default_text>
+    <english>Modalità Schermo</english>
+    <french>*Display Mode</french>
+    <italian>*Display Mode</italian>
+    <german>*Display Mode</german>
+    <spanish>*Display Mode</spanish>
+    <japanese>*Display Mode</japanese>
+  </text_item>
+  <text_item text_id="fullscreen">
+    <default_text>*Fullscreen</default_text>
+    <english>Schermo Intero</english>
+    <french>*Fullscreen</french>
+    <italian>*Fullscreen</italian>
+    <german>*Fullscreen</german>
+    <spanish>*Fullscreen</spanish>
+    <japanese>*Fullscreen</japanese>
+  </text_item>
+  
+</text>

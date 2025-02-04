@@ -5,7 +5,6 @@
     Progetto per la traduzione del gioco Valkyria Chronicles in italiano.
 </p>
 
-
 ## STRUTTURA DEI FILE - DA TERMINARE
 
 Nella cartella "_Valkyria Chronicles\data\resource\mtpa_" sono presenti la maggior parte dei testi delle cinematiche, dei dialoghi in battaglia e del menu\libro. In particolare:
@@ -45,6 +44,9 @@ Nella cartella "_Valkyria Chronicles\data\texture_replace_" sono presenti textur
 - [ ] Tradurre e adattare tutti i testi esr
 - [ ] Rifinire
 - [ ] Test completo del gioco
+
+## VIDEO DIMOSTRATIVO
+[![Video dimostrativo versione pre-alpha](https://img.youtube.com/vi/MNjeAes6j74/0.jpg)](https://youtu.be/MNjeAes6j74?si=MNjeAes6j74)
 
 
 ## SCREEN PROGETTO

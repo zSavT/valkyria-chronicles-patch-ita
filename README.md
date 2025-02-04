@@ -15,9 +15,9 @@ Nella cartella "_Valkyria Chronicles\data\resource\mtpa_" sono presenti la maggi
 - __mtpa_slg_XX__, contiene i dialoghi dei box presenti nelle battaglie.
     - Limite massimo di caratteri: 42/43
     - Carattere a capo: & (genera anche nuovi box di testo per inserire il testo mancante)
-- __mtpa_sys__, contiene testi vari per alcune opzioni del gioco e capitoli.
-    - Limite massimo di caratteri: ?
-    - Carattere a capo: &
+- ~~__mtpa_sys__, contiene testi vari per alcune opzioni del gioco e capitoli.~~
+    - ~~Limite massimo di caratteri: ?~~
+    - ~~Carattere a capo: &~~
 - __mtpa_sys_battle__, contiene testi vari per testi generici delle battaglie.
     - Limite massimo di caratteri: ?
     - Carattere a capo: &

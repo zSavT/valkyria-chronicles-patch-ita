@@ -7,6 +7,8 @@
 
 ## STRUTTURA DEI FILE - DA TERMINARE
 
+### MPTA
+
 Nella cartella "_Valkyria Chronicles\data\resource\mtpa_" sono presenti la maggior parte dei testi delle cinematiche, dei dialoghi in battaglia e del menu\libro. In particolare:
 
 - __mtpa_adv_XX__, contiene i dialoghi presenti nelle cinematiche.
@@ -15,9 +17,9 @@ Nella cartella "_Valkyria Chronicles\data\resource\mtpa_" sono presenti la maggi
 - __mtpa_slg_XX__, contiene i dialoghi dei box presenti nelle battaglie.
     - Limite massimo di caratteri: 42/43
     - Carattere a capo: & (genera anche nuovi box di testo per inserire il testo mancante)
-- __mtpa_sys__, contiene testi vari per alcune opzioni del gioco e capitoli.
-    - Limite massimo di caratteri: ?
-    - Carattere a capo: &
+- ~~__mtpa_sys__, contiene testi vari per alcune opzioni del gioco e capitoli.~~ Il file non ha alcun impatto nel gioco, utilizzato solo per la versione PS3 del gioco.
+    - ~~Limite massimo di caratteri: ?~~
+    - ~~Carattere a capo: &~~
 - __mtpa_sys_battle__, contiene testi vari per testi generici delle battaglie.
     - Limite massimo di caratteri: ?
     - Carattere a capo: &
@@ -28,15 +30,32 @@ Nella cartella "_Valkyria Chronicles\data\resource\mtpa_" sono presenti la maggi
     - Limite massimo di caratteri: ?
     - Carattere a capo: &
 
- Nella cartella "_Valkyria Chronicles\data\mx_" sono presenti tutti i file mxe che contengono tutto il testo restante (Impostazioni, nomi oggetti ecc...)<br>
+### MX
 
-I file "_htx_" contengono le texture del gioco, dove sono presenti anche le gui del gioco e alcuni testi (come per esempio il messaggio di ending del gioco). Anche i file "_mlx_" contengono le texture per gli ambienti, personaggi ecc... non utili per la patch.<br>
-Nella cartella "_Valkyria Chronicles\data\texture_replace_" sono presenti texture varie tra cui alcune contenente il testo di alcune interfacce di menu, i file sono delle immagini nel formato "_dds_".
+Nella cartella "_Valkyria Chronicles\data\mx_" sono presenti tutti i file mxe che contengono tutto il testo restante (Impostazioni, nomi oggetti ecc...)<br>
+
+### HTX - MLX - DDS
+
+I file "_htx_" contengono le texture del gioco, dove sono presenti anche le gui del gioco e alcuni testi (come per esempio il messaggio di ending del gioco). Anche i file "_mlx_" contengono le texture per gli ambienti, personaggi ecc... All'interno dei file HTX e MLX sono presenti i file DSS delle texture.<br>
+I file _DDS_ bisogna modificarli seguendo le linee guida indicate in questa [issue](https://github.com/zSavT/Valkyria-Chronicles-Patch-ITA/issues/1).
+
+
+- Nella cartella "_Valkyria Chronicles\data\texture_replace_" sono presenti texture varie tra cui alcune contenente il testo di alcune interfacce di menu.
+    - I file delle immagini sono direttamente nel formato "_dds_".
+- Nella cartella "_Valkyria Chronicles\data\resource_" nelle varie sottocartella, sono presenti tutti i file HTX e MLX.
+    - Per poter modificare questi due tipologie di file, bisogna utilizzare il [tool](https://steamcommunity.com/sharedfiles/filedetails/?id=343016567) di "__FluffyQuack__". 
+    - Per estrarre le texture bisogna trascinare il file della texture sul .bat "_extract.bat_". In questo modo viene creata una cartella con lo stesso nome del file contenente tutte le texture presenti in formato .dds da dover modificare.
+    - Per ri-compattare il file, bisogna inserire nella cartella (__Con il nome originale della cartella__), le texture modificate (__Con il nome del file originale della texture__). Bisogna trascinare il file originale sul .bat "_replace.bat_". In questo modo verrà modificato.
+    - La cartella contenente le texture, i .bat (con annesso exe) ed il file di originale, devono stare nella stessa cartella madre per poter funzionare correttamente.
+    - In alternativa si possono utillizzare i commandi tramite CLI indicati nella guida.
+![Tool](img/toolHTX-MLX.gif)
+
 
 ## TO DO
 
 - [ ] Comprendere il funzionamento e logica dietro i file mtpa
 - [ ] Comprendere il funzionamento e logica dietro i file mxe
+- [x] Comprendere il funzionamento e logica dietro i file mlx
 - [x] Comprendere il funzionamento e logica dietro i file htx
 - [ ] Comprendere il funzionamento e logica dietro i file esr
 - [ ] Tradurre e adattare tutti i testi mpta
@@ -58,4 +77,4 @@ Nella cartella "_Valkyria Chronicles\data\texture_replace_" sono presenti textur
 ## CREDITI
 
 Si ringrazia per tutto lo sfrozo di analisi dell'utente "__Feunoir__" postato [qui](https://www.jeuxvideo.com/forums/42-14107-38261510-1-0-1-0-traduction-du-jeu-aide-bienvenue.htm), per i csv di partenza per la traduzione e per i software di conversione da csv a mtpa e mxe.<br>
-Si ringrazia l'utente steam "__FluffyQuack__" per il tool di estrazione delle texture per i file htx e mlx [tool](https://steamcommunity.com/sharedfiles/filedetails/?id=343016567).
+Si ringrazia l'utente Steam "__FluffyQuack__" per il tool di estrazione delle texture per i file htx e mlx [tool](https://steamcommunity.com/sharedfiles/filedetails/?id=343016567).

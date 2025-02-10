@@ -64,6 +64,14 @@ I file _DDS_ bisogna modificarli seguendo le linee guida indicate in questa [iss
 - [ ] Rifinire
 - [ ] Test completo del gioco
 
+## Come segnalare errori nella traduzione/bug
+
+Per segnalare errori nella traduzione, bisogna farlo, tramite la sezione "__issue__" della repo e selezionare il template "_Errori di traduzione_".
+![Errore1](img/Issue0.png)
+![Errore2](img/Issue1.png)
+Successivamente bisogna riportare tutte le informazioni richieste per poter correggere l'errore.<br>
+Stesso discorso per la segnalazione dei crash/bug del gioco.
+
 ## VIDEO DIMOSTRATIVO
 [![Video dimostrativo versione pre-alpha](https://img.youtube.com/vi/MNjeAes6j74/0.jpg)](https://youtu.be/MNjeAes6j74?si=MNjeAes6j74)
 

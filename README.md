@@ -15,7 +15,6 @@
 
 # Sommario
 
-- [Valkyria Chronicles Patch ITA](#valkyria-chronicles-patch-ita)
 - [Sommario](#sommario)
   - [STRUTTURA DEI FILE - DA TERMINARE](#struttura-dei-file---da-terminare)
     - [MPTA](#mpta)
@@ -40,9 +39,7 @@ Nella cartella "_Valkyria Chronicles\data\resource\mtpa_" sono presenti la maggi
     - Limite massimo di caratteri: 42/43
     - Carattere a capo: & (genera anche nuovi box di testo per inserire il testo mancante)
 - ~~__mtpa_sys__, contiene testi vari per alcune opzioni del gioco e capitoli.~~ Il file non ha alcun impatto nel gioco, utilizzato solo per la versione PS3 del gioco.
-    - ~~Limite massimo di caratteri: ?~~- [Valkyria Chronicles Patch ITA](#valkyria-chronicles-patch-ita)
-
-
+    - ~~Limite massimo di caratteri: ?~~
     - ~~Carattere a capo: &~~
 - __mtpa_sys_battle__, contiene testi vari per testi generici delle battaglie.
     - Limite massimo di caratteri: ?

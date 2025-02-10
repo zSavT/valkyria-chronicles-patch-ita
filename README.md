@@ -5,6 +5,14 @@
     Progetto per la traduzione del gioco Valkyria Chronicles in italiano.
 </p>
 
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/zSavT/Valkyria-Chronicles-Patch-ITA)
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-pr/zSavT/Valkyria-Chronicles-Patch-ITA)
+![GitHub contributors](https://img.shields.io/github/contributors/zSavT/Valkyria-Chronicles-Patch-ITA)
+![GitHub last commit](https://img.shields.io/github/last-commit/zSavT/Valkyria-Chronicles-Patch-ITA)
+[![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/paypalme/verio12)
+
+
+
 # Sommario
 
 - [Valkyria Chronicles Patch ITA](#valkyria-chronicles-patch-ita)

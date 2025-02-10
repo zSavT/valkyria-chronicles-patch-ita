@@ -1,7 +1,7 @@
 ---
 name: Errore nella traduzione
 about: Crea una segnalazione per una errata traduzione/adattamento del gioco
-title: ''
+title: "[Errore Traduzione] - "
 labels: Traduzione errata
 assignees: zSavT
 

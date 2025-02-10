@@ -5,6 +5,20 @@
     Progetto per la traduzione del gioco Valkyria Chronicles in italiano.
 </p>
 
+# Sommario
+
+- [Valkyria Chronicles Patch ITA](#valkyria-chronicles-patch-ita)
+- [Sommario](#sommario)
+  - [STRUTTURA DEI FILE - DA TERMINARE](#struttura-dei-file---da-terminare)
+    - [MPTA](#mpta)
+    - [MX](#mx)
+    - [HTX - MLX - DDS](#htx---mlx---dds)
+  - [TO DO](#to-do)
+  - [Come segnalare errori nella traduzione/bug](#come-segnalare-errori-nella-traduzionebug)
+  - [VIDEO DIMOSTRATIVO](#video-dimostrativo)
+  - [SCREEN PROGETTO](#screen-progetto)
+  - [CREDITI](#crediti)
+
 ## STRUTTURA DEI FILE - DA TERMINARE
 
 ### MPTA
@@ -18,7 +32,9 @@ Nella cartella "_Valkyria Chronicles\data\resource\mtpa_" sono presenti la maggi
     - Limite massimo di caratteri: 42/43
     - Carattere a capo: & (genera anche nuovi box di testo per inserire il testo mancante)
 - ~~__mtpa_sys__, contiene testi vari per alcune opzioni del gioco e capitoli.~~ Il file non ha alcun impatto nel gioco, utilizzato solo per la versione PS3 del gioco.
-    - ~~Limite massimo di caratteri: ?~~
+    - ~~Limite massimo di caratteri: ?~~- [Valkyria Chronicles Patch ITA](#valkyria-chronicles-patch-ita)
+
+
     - ~~Carattere a capo: &~~
 - __mtpa_sys_battle__, contiene testi vari per testi generici delle battaglie.
     - Limite massimo di caratteri: ?

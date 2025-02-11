@@ -5,23 +5,23 @@
     Progetto per la traduzione del gioco Valkyria Chronicles in italiano.
 </p>
 
-![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/zSavT/Valkyria-Chronicles-Patch-ITA)
-![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-pr/zSavT/Valkyria-Chronicles-Patch-ITA)
-![GitHub contributors](https://img.shields.io/github/contributors/zSavT/Valkyria-Chronicles-Patch-ITA)
-![GitHub last commit](https://img.shields.io/github/last-commit/zSavT/Valkyria-Chronicles-Patch-ITA)
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/zSavT/Valkyria-Chronicles-Patch-ITA?logo=github)
+![GitHub contributors](https://img.shields.io/github/contributors/zSavT/Valkyria-Chronicles-Patch-ITA?logo=refinedgithub)
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/zSavT/Valkyria-Chronicles-Patch-ITA/main?display_timestamp=committer&logo=github&label=last%20commit%3A%20main)
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/zSavT/Valkyria-Chronicles-Patch-ITA/texture_replace?display_timestamp=committer&logo=github&label=last%20commit%3A%20texture_replace)
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/zSavT/Valkyria-Chronicles-Patch-ITA/traduzione_mpta?display_timestamp=committer&logo=github&label=last%20commit%3A%20texture_replace)
 [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/paypalme/verio12)
 
 
+# INDICE
 
-# Sommario
-
-- [Sommario](#sommario)
+- [INDICE](#indice)
   - [STRUTTURA DEI FILE - DA TERMINARE](#struttura-dei-file---da-terminare)
     - [MPTA](#mpta)
     - [MX](#mx)
     - [HTX - MLX - DDS](#htx---mlx---dds)
   - [TO DO](#to-do)
-  - [Come segnalare errori nella traduzione/bug](#come-segnalare-errori-nella-traduzionebug)
+  - [COME SEGNALARE ERRORI NELLA TRADUZIONE/BUG](#come-segnalare-errori-nella-traduzionebug)
   - [VIDEO DIMOSTRATIVO](#video-dimostrativo)
   - [SCREEN PROGETTO](#screen-progetto)
   - [CREDITI](#crediti)
@@ -85,7 +85,7 @@ I file _DDS_ bisogna modificarli seguendo le linee guida indicate in questa [iss
 - [ ] Rifinire
 - [ ] Test completo del gioco
 
-## Come segnalare errori nella traduzione/bug
+## COME SEGNALARE ERRORI NELLA TRADUZIONE/BUG
 
 Per segnalare errori nella traduzione, bisogna farlo, tramite la sezione "__issue__" della repo e selezionare il template "_Errori di traduzione_".
 ![Errore1](img/Issue0.png)

@@ -136,6 +136,7 @@ start = time.time()
 traduci_cartella(".")
 end = time.time()
 tempo = end - start
-ore = tempo // 3600
-minuti = (tempo % 3600) // 60
-print("🏁 Terminato in: ", ore, "ore e", minuti, "minuti")
+ore = int(tempo // 3600)
+minuti = int((tempo % 3600) // 60)
+secondi = int(tempo % 60)
+print(f"🏁 Terminato in: {ore} ore, {minuti} minuti e {secondi} secondi")

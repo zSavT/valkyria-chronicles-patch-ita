@@ -13,10 +13,10 @@
 1800;15296;22;;End the current phase?;Terminare la fase attuale?
 1880;15324;6;;Deploy;Distribuire
 1960;15336;1;;/;/
-2040;15344;1;; ;
+2040;15344;1;;;
 2120;15352;8;;En Route;In viaggio
 2200;15368;7;;Call In;Chiamare
-2280;15380;4;;Left;Sinistra
+2280;15380;4;;Left;Lascia
 2360;15392;25;;Call in additional units?;Richiedere unit= aggiuntive?
 2440;15424;27;;Order this unit to retreat?;Ordinare a questa unit= di ritirarsi?
 2520;15456;23;;End the current action?;Terminare l'azione corrente?
@@ -28,7 +28,7 @@
 3000;15596;5;;north;nord
 3080;15608;2;;NE;NE
 3160;15616;2;;SE;SE
-3240;15624;2;;NW;Nord-Ovest
+3240;15624;2;;NW;NO
 3320;15632;2;;SW;SO
 3400;15640;7;;Defense;Difesa
 3480;15652;5;;Field;Campo
@@ -49,10 +49,10 @@
 4680;15824;7;;Details;Dettagli
 4760;15836;7;;CP Cost;Costo CP
 4840;15848;1;;-;-
-4920;15856;1;; ;
-5000;15864;1;; ;
+4920;15856;1;;;
+5000;15864;1;;;
 5080;15872;1;;?;?
-5160;15880;2;;‡;‡
+5160;15880;2;;ï¿½;ï¿½
 5240;15888;6;;Orders;Ordini
 5320;15900;34;;Issue an order Welkin has learned.;Emetti un ordine che Welkin ha appreso.
 5400;15940;4;;Save;Salva

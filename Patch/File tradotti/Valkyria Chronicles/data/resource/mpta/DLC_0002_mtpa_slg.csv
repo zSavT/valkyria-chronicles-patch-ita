@@ -61,9 +61,9 @@
 5640;16012;36;;Load Save Data from a previous save.;Carica i dati salvati da un salvataggio precedente.
 5720;16056;7;;Options;Opzioni
 5800;16068;21;;Change game settings.;Cambia le impostazioni del gioco.
-5880;16096;12;;Title Screen;Schermata del titolo
-5960;16116;58;;Return to the Title Screen. Unsaved progress will be lost!;Ritorna alla schermata del titolo. I progressi non salvati&andranno persi!
-6040;16180;86;;If you return to the Title Screen,&any unsaved progress will be lost.&Continue anyway?;Se ritorni alla schermata del titolo, tutti i progressi&non salvati andranno persi. Continuare comunque?
+5880;16096;12;;Title Screen;Menu Iniziale
+5960;16116;58;;Return to the Title Screen. Unsaved progress will be lost!;Ritorna al Menu Iniziale. I progressi non salvati&andranno persi!
+6040;16180;86;;If you return to the Title Screen,&any unsaved progress will be lost.&Continue anyway?;Se ritorni al Menu Iniziale,&tutti i progressi non salvati andranno persi.&Continuare comunque?
 6120;16272;33;;^w256^ has been safely evacuated.;^w256^ > stato evacuato in sicurezza.
 6200;16312;7;;Victory;Vittoria
 6280;16324;7;;Failure;Fallimento
@@ -172,6 +172,6 @@
 14520;21136;44;;Retry the current battle&from the beginning?;Riprovare la battaglia attuale dall'inizio?
 14600;21188;54;;Retry the current battle from&the unit position phase?;Riprovare la battaglia attuale dalla fase di posizione&dell'unit=?
 14680;21248;16;;Load saved data?;Caricare i dati salvati?
-14760;21272;86;;If you return to the Title Screen,&any unsaved progress will be lost.&Continue anyway?;Se ritorni alla schermata del titolo, tutti i progressi&non salvati andranno persi. Continuare comunque?
+14760;21272;86;;If you return to the Title Screen,&any unsaved progress will be lost.&Continue anyway?;Se ritorni al Menu Iniziale,&tutti i progressi non salvati andranno persi.&Continuare comunque?
 14840;21364;36;;Issue an order Selvaria has learned.;Impartisci un ordine che Selvaria ha appreso.
 14920;21408;15;;Issue an order.;Emettere un ordine.

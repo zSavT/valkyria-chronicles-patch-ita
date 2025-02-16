@@ -121,10 +121,10 @@
 11588;45152;55;;        Ch. 7: The Battle at Barious    "First Contact";Cap. 7: La Battaglia di Barious "Primo contatto"
 11668;45212;69;;        Ch. 7: The Battle at Barious    "Desert Duel with Maximilian";Cap. 7: La Battaglia di Barious "Duello nel deserto con Maximilian"
 11748;45288;50;;        Ch. 7: The Battle at Barious    "Valkyria";Cap. 7: La Battaglia di Barious "Valkyria"
-11828;45344;64;;        Ch. 7: The Battle at Barious    "The Valkyria Withdraws";Cap. 7: La Battaglia di Barious "La Valchiria si ritira"
+11828;45344;64;;        Ch. 7: The Battle at Barious    "The Valkyria Withdraws";Cap. 7: La Battaglia di Barious "La Valkyrur si ritira"
 11908;45416;57;;        Ch. 7: The Battle at Barious    "A Legend Reborn";Cap. 7: La Battaglia di Barious "Una leggenda rinata"
-11988;45480;58;;         Report: Signs of Awakening    "Barious Once More";Report: Segnali del Risveglio "Bariosi ancora una volta"
-12068;45544;69;;         Report: Signs of Awakening    "Taking the Barious Highlands";Report: Segnali del Risveglio "Conquista degli altopiani bariosi"
+11988;45480;58;;         Report: Signs of Awakening    "Barious Once More";Report: Segnali del Risveglio "Barious ancora una volta"
+12068;45544;69;;         Report: Signs of Awakening    "Taking the Barious Highlands";Report: Segnali del Risveglio "Conquista degli altopiani Barious"
 12148;45620;55;;         Report: Signs of Awakening    "Alicia Wounded";Report: Segnali del Risveglio "Alicia ferita"
 12228;45680;56;;         Report: Signs of Awakening    "Unearthly Light";Report: Segnali del Risveglio "Luce ultraterrena"
 12308;45744;46;;         Report: Signs of Awakening    "Signs";Report: Segnali del Risveglio "Segnali"
@@ -190,7 +190,7 @@
 17108;49640;62;;        Ch. 12: The Fight for Bruhl     "Once the War is Over";Cap. 12: La Lotta per Bruhl "Una volta finita la guerra"
 17188;49708;61;;       Ch. 13: The Clash at Naggiar    "On the Eve of Battle";Cap. 13: Lo Scontro di Naggiar "Alla vigilia della battaglia"
 17268;49776;69;;       Ch. 13: The Clash at Naggiar    "On the Eve of Battle, part 2";Cap. 13: Lo Scontro di Naggiar "Alla vigilia della battaglia, parte 2"
-17348;49852;65;;       Ch. 13: The Clash at Naggiar    "The Iron-Willed Valkyria";Cap. 13: Lo Scontro di Naggiar "La Valchiria dalla volont=di ferro"
+17348;49852;65;;       Ch. 13: The Clash at Naggiar    "The Iron-Willed Valkyria";Cap. 13: Lo Scontro di Naggiar "La Valkyrur dalla volont=di ferro"
 17428;49924;60;;       Ch. 13: The Clash at Naggiar    "Selvaria, Destroyer";Cap. 13: Lo Scontro di Naggiar"Selvaria, Distruttore"
 17508;49992;64;;       Ch. 13: The Clash at Naggiar    "Showdown at Naggiar (1)";Cap. 13: Lo Scontro di Naggiar "Resa dei conti a Naggiar(1)"
 17588;50064;63;;       Ch. 13: The Clash at Naggiar    "A Bullet from the Blue";Cap. 13: Lo Scontro di Naggiar "Un proiettile dal cielo"
@@ -213,14 +213,14 @@
 18948;51120;60;;         Ch. 15: Citadel Ghirlandaio    "The Cruelest Order";Cap. 15: La Cittadella Ghirlandaio "L'Ordine Crudele"
 19028;51188;68;;         Ch. 15: Citadel Ghirlandaio    "The Cruelest Order, part 2";Cap. 15: La Cittadella Ghirlandaio "L'Ordine piu' Crudele, parte 2"
 19108;51264;60;;         Ch. 15: Citadel Ghirlandaio    "Bracing for Battle";Cap. 15: La Cittadella Ghirlandaio "Prepararsi alla battaglia"
-19188;51332;48;;         Ch. 15: Citadel Ghirlandaio    "Doubts";Cap. 15: La Cittadella Ghirlandaio"Dubbi"
+19188;51332;48;;         Ch. 15: Citadel Ghirlandaio    "Doubts";Cap. 15: La Cittadella Ghirlandaio "Dubbi"
 19268;51388;63;;         Ch. 15: Citadel Ghirlandaio    "Fight for Ghirlandaio";Cap. 15: La Cittadella Ghirlandaio "Lotta per il Ghirlandaio"
 19348;51456;62;;         Ch. 15: Citadel Ghirlandaio    "One Human's Struggle";Cap. 15: La Cittadella Ghirlandaio "La lotta di un essere umano"
 19428;51524;63;;         Ch. 15: Citadel Ghirlandaio    "Selvaria's Last Stand";Cap. 15: La Cittadella Ghirlandaio "L'Ultima Resistenza di Selvaria"
 19508;51592;61;;         Ch. 15: Citadel Ghirlandaio    "For Whom, for What?";Cap. 15: La Cittadella Ghirlandaio "Per chi, per cosa?"
-19588;51660;62;;         Ch. 15: Citadel Ghirlandaio    "The Valkyria's Flame";Cap. 15: La Cittadella Ghirlandaio"La Fiamma della Valchiria"
-19668;51728;70;;         Ch. 15: Citadel Ghirlandaio    "The Valkyria's Flame, part 2";Cap. 15: La Cittadella Ghirlandaio "La Fiamma della Valchiria, parte 2"
-19748;51804;70;;         Ch. 15: Citadel Ghirlandaio    "The Valkyria's Flame, part 3";Cap. 15: La Cittadella Ghirlandaio "La Fiamma della Valchiria, parte 3"
+19588;51660;62;;         Ch. 15: Citadel Ghirlandaio    "The Valkyria's Flame";Cap. 15: La Cittadella Ghirlandaio "La Fiamma della Valkyrur"
+19668;51728;70;;         Ch. 15: Citadel Ghirlandaio    "The Valkyria's Flame, part 2";Cap. 15: La Cittadella Ghirlandaio "La Fiamma della Valkyrur, parte 2"
+19748;51804;70;;         Ch. 15: Citadel Ghirlandaio    "The Valkyria's Flame, part 3";Cap. 15: La Cittadella Ghirlandaio "La Fiamma della Valkyrur, parte 3"
 19828;51880;52;;        Ch. 16: The Maiden's Shield    "The Marmota";Cap. 16: Lo scudo della fanciulla "La Marmota"
 19908;51940;60;;        Ch. 16: The Maiden's Shield    "The Marmota, part 2";Cap. 16: Lo scudo della fanciulla "La Marmota, parte 2"
 19988;52008;66;;        Ch. 16: The Maiden's Shield    "Operation Maiden's Shield";Cap. 16: Lo scudo della fanciulla "Operazione Scudo della fanciulla"
@@ -298,7 +298,7 @@
 25748;55568;13;;Marmota's End;La fine di Marmota
 25828;55588;14;;Final Showdown;Scontro finale
 25908;55608;24;;Vegetable Route Incident;Incidente sulla rotta delle verdure
-25988;55640;28;;Taking the Barious Highlands;Prendendo gli altopiani bariosi
+25988;55640;28;;Taking the Barious Highlands;Prendendo gli altopiani Barious
 26068;55676;24;;Hostage Rescue Operation;Operazione salvataggio degli ostaggi
 26148;55708;25;;An End to Darcsen Hunting;La fine della caccia a Darcsen
 26228;55740;25;;Guarding the Refugee Camp;A guardia del campo profughi

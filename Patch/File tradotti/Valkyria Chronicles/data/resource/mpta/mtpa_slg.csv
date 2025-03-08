@@ -78,7 +78,7 @@
 6992;16644;68;;Let's begin the operation.&Everyone just keep calm and stay focused!;Cominciamo l'operazione. Mantenete tutti la calma e&rimanete concentrati!
 7072;16720;46;;Here are the details on the current operation.;Ecco i dettagli dell'operazione in corso.
 7152;16772;58;;Get your soldiers into position and ready for combat, now!;Metti in posizione i tuoi soldati e preparati al&combattimento, adesso!
-7232;16836;60;;The operation has officially begun.&I'm expecting good news.;L'operazione > ufficialmente iniziata e mi aspetto buone&notizie.
+7232;16836;60;;The operation has officially begun.&I'm expecting good news.;L'operazione > ufficialmente iniziata&Mi aspetto buone notizie.
 7312;16904;16;;Ready to deploy?;Pronti per la distribuzione?
 7392;16928;20;;Return to Book Mode?;Tornare alla modalit= libro?
 7472;16956;41;;Unfilled positions remain. Deploy anyway?;Ci sono ancora delle posizioni vacanti. Vuoi comunque&partire?
@@ -168,8 +168,8 @@
 14192;20740;44;;Retry the current battle from the beginning.;Riprova la battaglia attuale dall'inizio.
 14272;20792;54;;Retry the current battle from the unit position phase.;Riprova la battaglia in corso dalla fase di posizione&dell'unit=.
 14352;20852;36;;Load Save Data from a previous save.;Carica i dati salvati da un salvataggio precedente.
-14432;20896;58;;Return to the Title Screen. Unsaved progress will be lost!;Ritorna alla schermata del titolo. I progressi non salvati&andranno persi!
-14512;20960;44;;Retry the current battle&from the beginning?;Riprovare la battaglia attuale dall'inizio?
-14592;21012;54;;Retry the current battle from&the unit position phase?;Riprovare la battaglia attuale dalla fase di posizione&dell'unit=?
+14432;20896;58;;Return to the Title Screen. Unsaved progress will be lost!;Ritorna alla schermata del titolo. I progressi non salvati andranno persi!
+14512;20960;44;;Retry the current battle&from the beginning?;Riprovare la battaglia attuale&dall'inizio?
+14592;21012;54;;Retry the current battle from&the unit position phase?;Riprovare la battaglia attuale&dalla fase di posizione dell'unit=?
 14672;21072;16;;Load saved data?;Caricare i dati salvati?
-14752;21096;86;;If you return to the Title Screen,&any unsaved progress will be lost.&Continue anyway?;Se ritorni alla schermata del titolo, tutti i progressi&non salvati andranno persi. Continuare comunque?
+14752;21096;86;;If you return to the Title Screen,&any unsaved progress will be lost.&Continue anyway?;Se ritorni alla schermata del titolo,&tutti i progressi non salvati andranno persi.&Continuare comunque?
